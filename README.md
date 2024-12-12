@@ -3,12 +3,12 @@
 Welcome to my LeetCode solutions repository! Here I document my journey through algorithmic problem-solving.
 
 ## 📊 My Progress
-- Problems Solved: 15
-- Ranking: 3,277,278
-- Acceptance Rate: 63.9%
+- Problems Solved: 16
+- Ranking: 3,292,344
+- Acceptance Rate: 66.7%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 9
+- 🟢 Easy: 10
 - 🟡 Medium: 5
 - 🔴 Hard: 1
 
@@ -35,19 +35,13 @@ I'm currently focusing on:
 Each solution includes:
 ```python
 """
-Problem: [Name and Number]
+Task: 
+[...]
+
 Topic: [Array/Tree/String...]
-Time Complexity: O(?)
-Space Complexity: O(?)
 
-Approach:
-1. First step
-2. Second step
-3. ...
-
-Learning:
-- What I learned
-- What to remember
+Something new I learned:
+[...]
 """
 [Solution code here]
 ```
