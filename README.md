@@ -3,13 +3,13 @@
 Welcome to my LeetCode solutions repository! Here I document my journey through algorithmic problem-solving.
 
 ## 📊 My Progress
-- Problems Solved: 18 / 3385
-- Ranking: 3,110,039
-- Acceptance Rate: 62.41%
+- Problems Solved: 19 / 3385
+- Ranking: 3,028,761
+- Acceptance Rate: 59.86%
 
 ## 🗂️ Solutions by Difficulty
 - 🟢 Easy: 10 / 842
-- 🟡 Medium: 7 / 1766
+- 🟡 Medium: 8 / 1766
 - 🔴 Hard: 1 / 777
 
 ## 📚 Categories
