@@ -3,12 +3,13 @@
 Welcome to my LeetCode solutions repository! Here I document my journey through algorithmic problem-solving.
 
 ## 📊 My Progress
-- Problems Solved: 21 / 3385
+- Current Streak: 7 days 🔥
+- Problems Solved: 22 / 3385
 - Ranking: 2,884,391
-- Acceptance Rate: 60.04%
+- Acceptance Rate: 60.93%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 11 / 842
+- 🟢 Easy: 12 / 842
 - 🟡 Medium: 9 / 1766
 - 🔴 Hard: 1 / 777
 
@@ -20,15 +21,10 @@ Solutions are organized by difficulty:
 
 ## 💡 What I've Learned
 
-Through solving these problems, I've improved my:
-- Problem-solving skills
-- Time and space complexity analysis
-- Code optimization techniques
-
-## 🎯 My Study Plan
-
-I'm currently focusing on:
-- Completing all Easy Array problems
+Through solving these problems, I worked on:
+- Heap Operations: Implementation of Min/Max Heaps using Python's heapq
+- Monotonic Stack: Pattern for next smaller/greater element problems
+- Sliding Window: Technique for fixed-size subarrays processing
 
 ## 📝 Solution Template
 
