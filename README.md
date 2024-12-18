@@ -42,8 +42,8 @@ Topic: [Array/Tree/String...]
 
 Something new I learned:
 [...]
-"""
 [Solution code here]
+"""
 ```
 
 ## ⚡ Quick Links
