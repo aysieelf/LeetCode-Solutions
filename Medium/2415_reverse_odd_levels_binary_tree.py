@@ -54,14 +54,12 @@ class Solution:
             level += 1
 
             if level % 2 == 1:
-                values = []
-                for node in list(queue):
-                    values.append(node.val)
+                values = [node.val for node in queue]
 
                 values = values[::-1]
 
                 for node, new_val in zip(queue, values):
                     node.val = new_val
 
-        return root
 
+        return root

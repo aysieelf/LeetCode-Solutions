@@ -3,15 +3,15 @@
 Welcome to my LeetCode solutions repository! Here I document my journey through algorithmic problem-solving.
 
 ## 📊 My Progress
-- Current Streak: 9 days 🔥
-- Problems Solved: 24 / 3385
+- Current Streak: 10 days 🔥
+- Problems Solved: 25 / 3385
 - Ranking: 2,690,330
-- Acceptance Rate: 61.73%
+- Acceptance Rate: 62.87%
 
 ## 🗂️ Solutions by Difficulty
 - 🟢 Easy: 12 / 842
 - 🟡 Medium: 11 / 1766
-- 🔴 Hard: 1 / 777
+- 🔴 Hard: 2 / 777
 
 ## 📚 Categories
 Solutions are organized by difficulty:
