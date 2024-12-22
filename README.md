@@ -3,15 +3,15 @@
 Welcome to my LeetCode solutions repository! Here I document my journey through algorithmic problem-solving.
 
 ## 📊 My Progress
-- Current Streak: 10 days 🔥
-- Problems Solved: 25 / 3385
-- Ranking: 2,690,330
-- Acceptance Rate: 62.9%
+- Current Streak: 11 days 🔥
+- Problems Solved: 26 / 3385
+- Ranking: 2,579,846
+- Acceptance Rate: 61%
 
 ## 🗂️ Solutions by Difficulty
 - 🟢 Easy: 12 / 842
 - 🟡 Medium: 11 / 1766
-- 🔴 Hard: 2 / 777
+- 🔴 Hard: 3 / 777
 
 ## 📚 Categories
 Solutions are organized by difficulty:
@@ -26,6 +26,7 @@ Through solving these problems, I worked on:
 - Monotonic Stack: Pattern for next smaller/greater element problems
 - Sliding Window: Technique for fixed-size subarrays processing
 - Perfect Trees: Special type of binary tree where every parent has exactly 2 children
+- itemgetter: Python's built-in function for sorting by multiple keys, faster than lambda
 
 ## 📝 Solution Template
 
