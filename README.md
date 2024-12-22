@@ -6,7 +6,7 @@ Welcome to my LeetCode solutions repository! Here I document my journey through 
 - Current Streak: 10 days 🔥
 - Problems Solved: 25 / 3385
 - Ranking: 2,690,330
-- Acceptance Rate: 62.87%
+- Acceptance Rate: 62.9%
 
 ## 🗂️ Solutions by Difficulty
 - 🟢 Easy: 12 / 842
