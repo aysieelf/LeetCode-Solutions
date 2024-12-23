@@ -3,14 +3,14 @@
 Welcome to my LeetCode solutions repository! Here I document my journey through algorithmic problem-solving.
 
 ## 📊 My Progress
-- Current Streak: 11 days 🔥
-- Problems Solved: 26 / 3385
-- Ranking: 2,579,846
+- Current Streak: 12 days 🔥
+- Problems Solved: 27 / 3385
+- Ranking: 2,530,989
 - Acceptance Rate: 61%
 
 ## 🗂️ Solutions by Difficulty
 - 🟢 Easy: 12 / 842
-- 🟡 Medium: 11 / 1766
+- 🟡 Medium: 12 / 1766
 - 🔴 Hard: 3 / 777
 
 ## 📚 Categories
