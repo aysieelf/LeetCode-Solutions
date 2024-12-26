@@ -1,54 +1,54 @@
-# 🚀 My LeetCode Solutions
+# 🚀 My LeetCode Journey
 
-Welcome to my LeetCode solutions repository! Here I document my journey through algorithmic problem-solving.
+## 🔄 Why I Changed My Approach
+After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling overwhelmed, I realized I needed a more structured learning path. Inspired by [this amazing story](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang), I transformed my approach to focus on building strong foundations first.
 
-## 📊 My Progress
-- Current Streak: 12 days 🔥
-- Problems Solved: 27 / 3385
+## 📈 My Current Progress
+- Problems Solved: 0 / 3385
 - Ranking: 2,530,989
 - Acceptance Rate: 61%
 
 ## 🗂️ Solutions by Difficulty
 - 🟢 Easy: 12 / 842
 - 🟡 Medium: 12 / 1766
-- 🔴 Hard: 3 / 777
+- 🔴 Hard: 4 / 777
 
-## 📚 Categories
-Solutions are organized by difficulty:
-- `Easy/`
-- `Medium/`
-- `Hard/`
+## 🎯 Journey Progress
+### Current Level
+- Month: 1. Easy Problems
+- Week: 1. Arrays
+- Focus: Arrays & Strings
 
-## 💡 What I've Learned
+### Study Streaks
+- Current Streak: 1 days 🔥
+- Longest Streak: 1 days
+- Total Study Days: 0
 
-Through solving these problems, I worked on:
-- Heap Operations: Implementation of Min/Max Heaps using Python's heapq
-- Monotonic Stack: Pattern for next smaller/greater element problems
-- Sliding Window: Technique for fixed-size subarrays processing
-- Perfect Trees: Special type of binary tree where every parent has exactly 2 children
-- itemgetter: Python's built-in function for sorting by multiple keys, faster than lambda
+### This Week's Stats (Week 1)
+- Problems Attempted: 0
+- Success Rate: 0%
+- Most Challenging Topic: _nothing to see yet_
 
-## 📝 Solution Template
+### Completed Topics Stack
+1. Arrays Basics ✅ _just a placeholder for now_
 
-Each solution includes:
-```python
-"""
-Task: 
-[...]
+## 📚 Repository Structure
+- `/Old_Solutions`: Previous attempts before structured approach
+- `/Journey_Solutions`: New solutions following structured plan
+- `/Templates`: Common patterns and approaches
+- `/ProblemLog_Templates`: Templates for Daily and Weekly Logs with examples
 
-Topic: [Array/Tree/String...]
+## 🎖️ Achievements
+- [ ] First Week Complete
+- [ ] First Problem Solved Without Help
+- [ ] 5-Day Study Streak
+- [ ] Mastered Arrays Basics
 
-Something new I learned:
-[...]
-[Solution code here]
-"""
-```
+[View Detailed Study Plan](LeetCodeStudyGuide.md)
 
-## ⚡ Quick Links
-- [My LeetCode Profile](https://leetcode.com/u/aysieelf)
+[View Current Week Progress](Journey_Solutions/1_Month/1_Week/WeeklyLog.md)
 
-## 🌟 Contributing
-Found a better solution? I'd love to learn from you! Contact me!
-- aysie.elf@gmail.com
+[View Last Day's Log](link-to-log.md)
+
 ---
-*Keep coding, keep learning!* 💻
+*Learning is not a sprint, it's a marathon* 🏃‍♀️
