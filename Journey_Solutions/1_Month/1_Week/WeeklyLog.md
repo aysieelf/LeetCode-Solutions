@@ -2,22 +2,28 @@
 # 📊 Weekly Progress Report
 ## Week of: 30/12.2024 - 05/12.2025
 
+
 ### Problems Completed
-| Day | Problem | Difficulty | Status |
-|-----|----------|------------|---------|
-| Mon | | | |
-| Tue | | | |
-| Wed | | | |
-| Thu | | | |
-| Fri | | | |
-| Sat | | | |
-| Sun | | | |
+| Day | Problem                         | Difficulty | Time Complexity | Space Complexity | Status |
+|-----|---------------------------------|------------|-----------------|------------------|--------|
+| Mon | Two Sum                         | Easy       |                 |                  |        |
+| Tue | Move Zeroes                     | Easy       |                 |                  |        |
+| Wed | Running Sum of 1d Array         | Easy       |                 |                  |        |
+| Thu | Contains Duplicate              | Easy       |                 |                  |        |
+| Fri | Merge Sorted Array              | Easy       |                 |                  |        |
+| Sat | Best Time to Buy and Sell Stock | Easy       |                 |                  |        |
+| Sun | Majority Element                | Easy       |                 |                  |        |
+
+Time Complexity Legend:
+- O(1): Constant time
+- O(log n): Logarithmic time
+- O(n): Linear time
+- O(n log n): Linear-logarithmic time
+- O(n²): Quadratic time
+- O(2ⁿ): Exponential time
 
 ### Weekly Stats
 - Total Problems: XX
-- Easy: XX
-- Medium: XX
-- Hard: XX
 - Success Rate: XX%
 
 ### Areas of Improvement

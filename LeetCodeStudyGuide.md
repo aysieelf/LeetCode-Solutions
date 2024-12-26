@@ -9,89 +9,133 @@
 
 ## Long Term Plan
 
-### Month 1-2: Easy Problems 👶
-#### Weeks 1-2: Arrays & Strings
-- Basic array manipulation
-- String operations
-- Simple iterations 
+### [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
+#### [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
+- [ ] Two Sum
+- [ ] Move Zeroes
+- [ ] Running Sum of 1d Array
+- [ ] Contains Duplicate
+- [ ] Merge Sorted Array
+- [ ] Best Time to Buy and Sell Stock
+- [ ] Majority Element
 
-#### Weeks 3-4: Hash Tables & Sets
+#### [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
+- [ ] Maximum Subarray
+- [ ] Plus One
+- [ ] Remove Duplicates from Sorted Array
+- [ ] Search Insert Position
+- [ ] Single Number
+- [ ] Find Pivot Index
+- [ ] Remove Element
+
+#### [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
+- [ ] Valid Anagram
+- [ ] Valid Palindrome
+- [ ] Reverse String
+- [ ] First Unique Character
+- [ ] Length of Last Word
+- [ ] Longest Common Prefix
+- [ ] Valid Parentheses
+
+#### [Week 4: Combined Concepts & Review](Journey_Solutions/1_Month/4_Week)
+- [ ] Valid Palindrome II
+- [ ] Implement strStr()
+- [ ] Find All Numbers Disappeared in an Array
+- [ ] Third Maximum Number
+- [ ] Summary Ranges
+- [ ] Pascal's Triangle
+- [ ] Pascal's Triangle II
+
+#### Weeks 5-8: Hash Tables & Sets
 - Hash map operations
 - Set usage
 - Frequency counting
 
-#### Weeks 5-6: Linked Lists
+#### Weeks 9-12: Linked Lists
 - Traversal
 - Basic operations
 - Two pointers in lists
 
-#### Weeks 7-8: Basic Trees & Stack/Queue
+### Month 4-6: Easy Problems (Continued) 👶
+#### Weeks 13-16: Basic Trees & Stack/Queue
 - Tree traversal
 - Stack operations
 - Queue usage
 
-### Month 3-4: Easy ➡️ Medium Transition 📈
-#### Weeks 9-10: Advanced Easy + First Medium
+#### Weeks 17-20: Review & Practice Easy Problems
+- Mixed problems from previous topics
+- Pattern recognition
+- Speed improvement
+
+#### Weeks 21-24: More Easy Array & String Problems
+- Different variations
+- Combined concepts
+- Edge cases handling
+
+### Month 7-9: Easy ➡️ Medium Transition 📈
+#### Weeks 25-28: Advanced Easy + First Medium
 - Complex Easy problems
 - Introduction to Medium difficulty
 - Pattern recognition
 
-#### Weeks 11-12: Binary Search
+#### Weeks 29-32: Binary Search
 - Basic binary search
 - Search variations
 - Sorted array operations
 
-#### Weeks 13-14: Two Pointers & Sliding Window
+#### Weeks 33-36: Two Pointers & Sliding Window
 - Two pointer techniques
 - Window sliding patterns
 - Array partitioning
 
-#### Weeks 15-16: BFS & DFS in Graphs
+### Month 10-12: Medium Problems Foundation 💪
+#### Weeks 37-40: BFS & DFS in Graphs
 - Graph representation
 - Basic traversal
 - Path finding
 
-### Month 5-6: Medium Problems 💪
-#### Weeks 17-18: Basic Dynamic Programming
+#### Weeks 41-44: Basic Dynamic Programming
 - DP fundamentals
 - Memoization
 - Tabulation
 
-#### Weeks 19-20: Backtracking
+#### Weeks 45-48: Backtracking
 - Recursion
 - State management
 - Pruning
 
-#### Weeks 21-22: Advanced Trees
+### Month 13-15: Advanced Medium Problems 🚀
+#### Weeks 49-52: Advanced Trees
 - BST operations
 - Balanced trees
 - Tree modifications
 
-#### Weeks 23-24: Heap & Priority Queue
+#### Weeks 53-56: Heap & Priority Queue
 - Heap operations
 - Priority scheduling
 - K-th element problems
 
-### Month 7-8: Advanced Medium & First Hard 🚀
-#### Weeks 25-26: Advanced DP
+#### Weeks 57-60: Advanced DP
 - Complex state transitions
 - Optimization problems
 - Path counting
 
-#### Weeks 27-28: Graph Algorithms
+### Month 16-18: Hard Problems Introduction 💎
+#### Weeks 61-64: Graph Algorithms
 - Shortest paths
 - Connected components
 - Network flow basics
 
-#### Weeks 29-30: First Hard Problems
+#### Weeks 65-68: First Hard Problems
 - Complex algorithms
 - Multiple concepts
 - Optimization
 
-#### Weeks 31-32: Mixed Practice
+#### Weeks 69-72: Mixed Practice
 - Mixed difficulty problems
 - Interview preparation
 - Time management
+
 
 ## Daily Routine
 

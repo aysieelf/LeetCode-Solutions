@@ -19,13 +19,13 @@
 | Total Time | XX min |
 
 ## Problem Analysis
-### Difficulties Faced
-- [ ] Understanding problem
-- [ ] Finding approach
+### What Went Smoothly ✓
+- [ ] Understanding the problem
+- [ ] Finding the right approach
 - [ ] Implementation
-- [ ] Edge cases
-- [ ] Time complexity
-- Details: _write here_
+- [ ] Handling edge cases
+- [ ] Understanding time complexity
+- Details of difficulties encountered: _write here_
 
 ### What I Learned
 - New concept: _write here_
@@ -37,4 +37,19 @@
 - Understanding: 🔴 / 🟡 / 🟢
 - Implementation: 🔴 / 🟡 / 🟢
 
+LEGEND:
+- First Try:
+  🟢 - Completed on my own
+  🟡 - Used hints
+  🔴 - Used solution
+
+- Understanding:
+  🟢 - Understood and can explain the problem to others
+  🟡 - Understood main idea
+  🔴 - Still struggling to understand the problem
+
+- Implementation:
+  🟢 - Wrote clean code, no bugs, optimal naming
+  🟡 - Wrote code with some bugs, not optimal naming
+  🔴 - Many bugs, poor naming, needed help
 ---

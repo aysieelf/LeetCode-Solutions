@@ -3,15 +3,24 @@
 ## Week of: MM/DD - MM/DD
 
 ### Problems Completed
-| Day | Problem | Difficulty | Status |
-|-----|----------|------------|---------|
-| Mon | | | |
-| Tue | | | |
-| Wed | | | |
-| Thu | | | |
-| Fri | | | |
-| Sat | | | |
-| Sun | | | |
+| Day | Problem | Difficulty | Time Complexity | Space Complexity | Status |
+|-----|---------|------------|-----------------|------------------|--------|
+| Mon |         |            |                 |                  |        |
+| Tue |         |            |                 |                  |        |
+| Wed |         |            |                 |                  |        |
+| Thu |         |            |                 |                  |        |
+| Fri |         |            |                 |                  |        |
+| Sat |         |            |                 |                  |        |
+| Sun |         |            |                 |                  |        |
+
+
+Time Complexity Legend:
+- O(1): Constant time
+- O(log n): Logarithmic time
+- O(n): Linear time
+- O(n log n): Linear-logarithmic time
+- O(n²): Quadratic time
+- O(2ⁿ): Exponential time
 
 ### Weekly Stats
 - Total Problems: XX
@@ -24,11 +33,6 @@
 - [ ] Topic 1
 - [ ] Topic 2
 - [ ] Topic 3
-
-### Next Week Focus
-- Primary Topic:
-- Secondary Topic:
-- Pattern to Master:
 
 ### Celebrations 🎉
 - Achievement 1:

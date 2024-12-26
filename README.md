@@ -5,19 +5,20 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 
 ## 📈 My Current Progress
 - Problems Solved: 0 / 3385
-- Ranking: 2,530,989
+- Ranking: 2,485,133
 - Acceptance Rate: 61%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 12 / 842
-- 🟡 Medium: 12 / 1766
-- 🔴 Hard: 4 / 777
+- 🟢 Easy: 0 / 842
+- 🟡 Medium: 0 / 1766
+- 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-- Month: 1. Easy Problems
-- Week: 1. Arrays
-- Focus: Arrays & Strings
+[░░░░░░░░░░░░░░░░░░░░] 0%
+- [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
+- [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
+
 
 ### Study Streaks
 - Current Streak: 1 days 🔥
@@ -37,6 +38,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - `/Journey_Solutions`: New solutions following structured plan
 - `/Templates`: Common patterns and approaches
 - `/ProblemLog_Templates`: Templates for Daily and Weekly Logs with examples
+- [View my detailed study plan](LeetCodeStudyGuide.md)
 
 ## 🎖️ Achievements
 - [ ] First Week Complete
@@ -44,11 +46,31 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [ ] 5-Day Study Streak
 - [ ] Mastered Arrays Basics
 
-[View Detailed Study Plan](LeetCodeStudyGuide.md)
+## 📝 Solution Template
 
-[View Current Week Progress](Journey_Solutions/1_Month/1_Week/WeeklyLog.md)
+Each solution includes:
+```python
+"""
+Task:
+[...]
 
-[View Last Day's Log](link-to-log.md)
+Input Format:
+[...]
 
+Output Format:
+[...]
+
+What I learned:
+[If I learned something new]
+"""
+#[Solution code here]
+```
+
+## ⚡ Quick Links
+- [My LeetCode Profile](https://leetcode.com/u/aysieelf/)
+
+## 🌟 Contributing
+Found a better solution? I'd love to learn from you! Contact me!
+- aysie.elf@gmail.com
 ---
 *Learning is not a sprint, it's a marathon* 🏃‍♀️

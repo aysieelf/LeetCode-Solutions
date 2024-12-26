@@ -25,11 +25,6 @@
 - [x] Stack Operations
 - [ ] Linked List Manipulation
 
-### Next Week Focus
-- Primary Topic: Linked Lists
-- Secondary Topic: Two Pointers
-- Pattern to Master: Fast & Slow Pointers
-
 ### Celebrations 🎉
 - Achievement 1: Решиx 3 задачи без помощ!
 - Achievement 2: Разбрах рекурсията в дървета 
