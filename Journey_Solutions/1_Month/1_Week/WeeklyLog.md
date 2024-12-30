@@ -6,7 +6,7 @@
 ### Problems Completed
 | Day | Problem                         | Difficulty | Time Complexity | Space Complexity | Status |
 |-----|---------------------------------|------------|-----------------|------------------|--------|
-| Mon | Two Sum                         | Easy       |                 |                  |        |
+| Mon | Two Sum                         | Easy       | O(n)            | O(n)             | ✅      |
 | Tue | Move Zeroes                     | Easy       |                 |                  |        |
 | Wed | Running Sum of 1d Array         | Easy       |                 |                  |        |
 | Thu | Contains Duplicate              | Easy       |                 |                  |        |
@@ -23,21 +23,14 @@ Time Complexity Legend:
 - O(2ⁿ): Exponential time
 
 ### Weekly Stats
-- Total Problems: XX
-- Success Rate: XX%
+- Total Problems: 1
+- Success Rate: 100%
 
 ### Areas of Improvement
-- [ ] Topic 1
-- [ ] Topic 2
-- [ ] Topic 3
-
-### Next Week Focus
-- Primary Topic:
-- Secondary Topic:
-- Pattern to Master:
+- [ ] Write cleaner code
 
 ### Celebrations 🎉
-- Achievement 1:
+- Achievement 1: I came up with Hash Table with Parallel Processing for Two Sum which made my solution faster than 100% of submissions. 🚀
 - Achievement 2:
 
 ---
