@@ -9,14 +9,14 @@ Task:
     You can return the answer in any order.
 
 Edge cases:
-- what if no indices exist?
--> no, there is a constraint about that
+    - what if no indices exist?
+    -> no, there is a constraint about that
 
-what if two combinations are correct?
--> no, there is a constraint about that
+    what if two combinations are correct?
+    -> no, there is a constraint about that
 
-what if the answer is at the end of a very long list?
--> maybe I should go from two ends to the middle
+    what if the answer is at the end of a very long list?
+    -> maybe I should go from two ends to the middle
 """
 from typing import List
 

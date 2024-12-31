@@ -15,7 +15,7 @@
 - [ ] Move Zeroes
 - [ ] Running Sum of 1d Array
 - [ ] Contains Duplicate
-- [ ] Merge Sorted Array
+- [x] Merge Sorted Array
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Majority Element
 

@@ -4,31 +4,37 @@
 After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling overwhelmed, I realized I needed a more structured learning path. Inspired by [this amazing story](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang), I transformed my approach to focus on building strong foundations first.
 
 ## 📈 My Current Progress
-- Problems Solved: 1 / 3385
-- Ranking: 2,445,143
+- Problems Solved: 2 / 3385
+- Ranking: 2,446,856
 - Acceptance Rate: 61%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 1 / 842
+- 🟢 Easy: 2 / 842
 - 🟡 Medium: 0 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[░░░░░░░░░░░░░░░░░░░░] 0%
+[░░░░░░░░░░░░░░░░░░░░] 0% (2/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
-- 1 / 84 Problems
 
 ### Study Streaks
-- Current Streak: 1 days 🔥
-- Longest Streak: 1 days
-- Total Study Days: 1
+- Current Streak: 2 days 🔥
+- Longest Streak: 2 days
+- Total Study Days: 2
 
 ### This Week's Stats (Week 1)
-- Problems Attempted: 1
-- Success Rate: 100%
-- Most Challenging Topic: _nothing to see yet_
+- Problems Attempted: 2
+- Success Rate: 200%
+- Challenges: 
+  - Understanding time complexity of built-in methods
+  - Learning to implement Two Pointers pattern
+  - Choosing optimal approach (front-to-back vs back-to-front)
+- Achievements:
+  - 100% speed performance in Two Sum and Merge Sorted Array
+  - Successfully implemented first Two Pointers solution
+  - Improved solution from O(n²) to O(n) time complexity
 
 ### Completed Topics Stack
 1. Arrays Basics ✅ _just a placeholder for now_
