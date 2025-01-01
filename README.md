@@ -15,7 +15,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 
 ## 🎯 Journey Progress
 ### Current Level
-[░░░░░░░░░░░░░░░░░░░░] 0% (2/84 problems)
+[░░░░░░░░░░░░░░░░░░░░] 0% (3/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
 
@@ -37,7 +37,8 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
   - Improved solution from O(n²) to O(n) time complexity
 
 ### Completed Topics Stack
-1. Arrays Basics ✅ _just a placeholder for now_
+1. Arrays Basics ⏳
+2. Two Pointers Pattern ✅
 
 ## 📚 Repository Structure
 - `/Old_Solutions`: Previous attempts before structured approach
@@ -47,11 +48,11 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [View my detailed study plan](LeetCodeStudyGuide.md)
 
 ## 🎖️ Achievements
-- [ ] First Week Complete
-- [ ] First Month Complete
-- [ ] First Problem Solved Without Help
-- [ ] 5-Day Study Streak
-- [ ] Mastered Arrays Basics
+*  ✅ First week started! (30.12.2024)
+*  ✅ First problem solved without help (30.12.2024)
+*  ✅ First two pointers solution implemented without help (1.01.2025 - Move Zeroes)
+*  ✅ First LeetCode solution shared (1.01.2025 - Move Zeroes - `Python | Two Pointers | 5 line ✨`)
+*  ✅ 3 Problems Solved Without Help
 
 ## 📝 Solution Template
 
@@ -72,6 +73,9 @@ Examples:
 
 ## ⚡ Quick Links
 - [My LeetCode Profile](https://leetcode.com/u/aysieelf/)
+- Shared Solutions:
+  - [Python | Two Pointers | 5 lines ✨](https://leetcode.com/problems/move-zeroes/solutions/6212328/python-two-pointers-5-lines)
+  - [Python | Hash Table with Parallel Processing | Beats 100% ✨](https://leetcode.com/problems/two-sum/solutions/6212397/python-hash-table-with-parallel-processi-ljp6)
 
 ## 🌟 Contributing
 Found a better solution? I'd love to learn from you! Contact me!
