@@ -4,12 +4,12 @@
 After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling overwhelmed, I realized I needed a more structured learning path. Inspired by [this amazing story](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang), I transformed my approach to focus on building strong foundations first.
 
 ## 📈 My Current Progress
-- Problems Solved: 2 / 3385
-- Ranking: 2,446,856
+- Problems Solved: 3 / 3385
+- Ranking: 2,403,227
 - Acceptance Rate: 61%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 2 / 842
+- 🟢 Easy: 3 / 842
 - 🟡 Medium: 0 / 1766
 - 🔴 Hard: 0 / 777
 
@@ -20,13 +20,13 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
 
 ### Study Streaks
-- Current Streak: 2 days 🔥
-- Longest Streak: 2 days
-- Total Study Days: 2
+- Current Streak: 3 days 🔥
+- Longest Streak: 3 days
+- Total Study Days: 3
 
 ### This Week's Stats (Week 1)
-- Problems Attempted: 2
-- Success Rate: 200%
+- Problems Attempted: 3
+- Success Rate: 100%
 - Challenges: 
   - Understanding time complexity of built-in methods
   - Learning to implement Two Pointers pattern

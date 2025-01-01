@@ -12,7 +12,7 @@
 ### [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 #### [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
 - [x] Two Sum
-- [ ] Move Zeroes
+- [x] Move Zeroes
 - [ ] Running Sum of 1d Array
 - [ ] Contains Duplicate
 - [x] Merge Sorted Array

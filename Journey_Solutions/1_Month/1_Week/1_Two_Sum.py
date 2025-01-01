@@ -48,3 +48,12 @@ class Solution:
 sol = Solution()
 print(sol.twoSum([2,7,11,15], 9))
 print(sol.twoSum([3,2,4], 6))
+
+
+def two_sum(arr, t):
+    seen = {}
+    for i, num in enumerate(arr):
+        diff = t - num
+        if diff in seen:
+            return [seen[diff], i]
+        seen[num] = i
