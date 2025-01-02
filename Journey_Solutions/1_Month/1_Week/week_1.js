@@ -27,3 +27,14 @@ var merge = function(nums1, m, nums2, n) {
         last -= 1;
     }
 };
+
+// 283. Move Zeroes
+var moveZeroes = function(nums) {
+    let zero_i = 0;
+    for (const [i, num] of nums.entries()) {
+        if (num !== 0) {
+            [nums[zero_i], nums[i]] = [nums[i], nums[zero_i]];
+            zero_i += 1;
+        }
+    }
+};
