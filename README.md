@@ -5,8 +5,8 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 
 ## 📈 My Current Progress
 - Problems Solved: 4 / 3385
-- Ranking: 2,403,227
-- Acceptance Rate: 61%
+- Ranking: 2,359,428
+- Acceptance Rate: 63%
 
 ## 🗂️ Solutions by Difficulty
 - 🟢 Easy: 4 / 842
