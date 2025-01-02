@@ -1,5 +1,10 @@
 # 🧩 Pattern Library
 
+## Table of Contents
+- [Hash Table with Parallel Processing](#hash-table-with-parallel-processing)
+- [Hash Map Lookup (Complement Pattern)](#hash-map-lookup-complement-pattern)
+- [Two Pointers](#two-pointers)
+
 ## Hash Table with Parallel Processing
 ### Core Concept
 - Basic idea: Reducing time complexity in half by checking 

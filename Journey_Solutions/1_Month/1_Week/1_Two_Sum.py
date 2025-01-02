@@ -18,6 +18,7 @@ Edge cases:
     what if the answer is at the end of a very long list?
     -> maybe I should go from two ends to the middle
 """
+# Parallel processing
 from typing import List
 
 
@@ -50,6 +51,7 @@ print(sol.twoSum([2,7,11,15], 9))
 print(sol.twoSum([3,2,4], 6))
 
 
+# Hash map lookup (complement pattern)
 def two_sum(arr, t):
     seen = {}
     for i, num in enumerate(arr):
