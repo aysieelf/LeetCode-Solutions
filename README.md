@@ -55,6 +55,9 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ 3 Problems Solved Without Help
 
 ## 📝 Solution Template
+- Each problem is solved in:
+  * Python (primary language) 🐍
+  * JavaScript (for practice) 💛
 
 Each solution includes:
 ```python
