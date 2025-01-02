@@ -4,6 +4,7 @@
 - [Hash Table with Parallel Processing](#hash-table-with-parallel-processing)
 - [Hash Map Lookup (Complement Pattern)](#hash-map-lookup-complement-pattern)
 - [Two Pointers](#two-pointers)
+- [Prefix Sum](#prefix-sum)
 
 ## Hash Table with Parallel Processing
 ### Core Concept
@@ -62,6 +63,8 @@ def hash_map_lookup(arr, target):
     
     return []  # no pair found
 ```
+---
+
 ## Two Pointers
 ### Core Concept
 - Basic idea: We use two pointers to traverse the list from both ends / from back to front / from front to back
@@ -80,3 +83,29 @@ def two_pointers(arr):
         left += 1
         right -= 1
 ```
+-----
+## Prefix Sum
+### Core Concept
+- Basic idea: We keep track of the sum of elements up to the current index to avoid recalculating it every time
+- When to use: 
+  - When we need to calculate the sum of elements up to the current index multiple times
+  - When we need a sum of subarray from index i to j
+  - I used it in [1480_Running_Sum problem](Journey_Solutions/1_Month/1_Week/1480_Running_Sum_of_1d_Array.py)
+
+### Template Code
+```python
+def prefix_sum(arr):
+    prefix = [arr[0]]  # Initialize with first element
+    
+    for num in arr[1:]:
+        # Add current number to previous sum
+        prefix.append(prefix[-1] + num)
+    
+    return prefix
+
+# Alternative one-liner using accumulate
+from itertools import accumulate
+def prefix_sum_oneliner(arr):
+    return list(accumulate(arr))
+```
+-----
