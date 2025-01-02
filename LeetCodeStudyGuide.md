@@ -13,7 +13,7 @@
 #### [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
 - [x] Two Sum
 - [x] Move Zeroes
-- [ ] Running Sum of 1d Array
+- [x] Running Sum of 1d Array
 - [ ] Contains Duplicate
 - [x] Merge Sorted Array
 - [ ] Best Time to Buy and Sell Stock
