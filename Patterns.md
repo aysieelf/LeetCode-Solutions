@@ -5,6 +5,8 @@
 - [Hash Map Lookup (Complement Pattern)](#hash-map-lookup-complement-pattern)
 - [Two Pointers](#two-pointers)
 - [Prefix Sum](#prefix-sum)
+- [Hash Set](#hash-set)
+- [Sorted Array](#sorted-array)
 
 ## Hash Table with Parallel Processing
 ### Core Concept
@@ -107,5 +109,42 @@ def prefix_sum(arr):
 from itertools import accumulate
 def prefix_sum_oneliner(arr):
     return list(accumulate(arr))
+```
+-----
+## Hash Set
+### Core Concept
+- Basic idea: Using a hash set for O(1) lookup time operations
+- When to use: When searching for duplicates, membership testing, or maintaining unique elements
+  - I used it in [217_Contains_Duplicate problem](Journey_Solutions/1_Month/1_Week/217_Contains_Duplicate.py)
+
+### Template Code
+```python
+# Approach 1: Set Length Comparison
+def has_duplicates_set_comparison(arr):
+    return len(set(arr)) != len(arr)
+
+# Approach 2: Early Exit Hash Set
+def has_duplicates_early_exit(arr):
+    seen = set()
+    for num in arr:
+        if num in seen:
+            return True
+        seen.add(num)
+    return False
+```
+-----
+## Sorted Array
+### Core Concept
+- Basic idea: Sorting the array to bring similar elements together
+- When to use: When **space complexity** is a concern and O(n log n) time is acceptable
+
+### Template Code
+```python
+def has_duplicates_sorting(arr):
+    arr.sort()
+    for i in range(1, len(arr)):
+        if arr[i] == arr[i-1]:
+            return True
+    return False
 ```
 -----
