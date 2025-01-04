@@ -7,6 +7,7 @@
 - [Prefix Sum](#prefix-sum)
 - [Hash Set](#hash-set)
 - [Sorted Array](#sorted-array)
+- [Dynamic Programming (State Tracking)](#dynamic-programming-state-tracking)
 
 ## Hash Table with Parallel Processing
 ### Core Concept
@@ -146,5 +147,33 @@ def has_duplicates_sorting(arr):
         if arr[i] == arr[i-1]:
             return True
     return False
+```
+-----
+
+## Dynamic Programming (State Tracking)
+### Core Concept
+- Basic idea: Track minimum state needed to solve the problem without storing all data
+- When to use:
+  - When we need to track optimal values while processing data sequentially
+  - When we can make decisions based only on previously calculated results
+  - I used it in [121_Best_Time_to_Buy_and_Sell_Stock problem](Journey_Solutions/1_Month/1_Week/121_Best_Time_to_Buy_and_Sell_Stock.py)
+
+### Template Code
+```python
+def dp_state_tracking(arr):
+    if not arr: return 0
+    
+    # Initialize state variables
+    min_seen = arr[0]    # Track minimum value seen
+    max_result = 0       # Track optimal result
+    
+    # Process array sequentially
+    for num in arr[1:]:
+        # Update result using current state
+        max_result = max(num - min_seen, max_result)
+        # Update state for next iteration
+        min_seen = min(min_seen, num)
+    
+    return max_result
 ```
 -----
