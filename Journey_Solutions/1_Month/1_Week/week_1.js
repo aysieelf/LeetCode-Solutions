@@ -73,3 +73,29 @@ var containsDuplicate3 = function (nums) {
     }
     return false;
 };
+
+// 121. Best Time to Buy and Sell Stocks
+var maxProfit = function(prices) {
+    let profit = 0;
+    for (let i = 0; i < prices.length - 1; i++) {
+        const sell = Math.max(...prices.slice(i + 1));
+        profit = Math.max(profit, sell - prices[i]);
+    }
+    return profit;
+};
+
+var maxProfit = function(prices) {
+    if (prices.length < 2) {
+        return 0;
+    }
+
+    let min_price = prices[0]
+    let max_profit = 0
+    for (const price of prices.slice(1)) {
+        max_profit = Math.max((price - min_price), max_profit);
+        if (price < min_price) {
+            min_price = price;
+        }
+    }
+    return max_profit;
+}
