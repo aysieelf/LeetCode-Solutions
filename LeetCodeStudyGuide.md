@@ -16,7 +16,7 @@
 - [x] Running Sum of 1d Array
 - [x] Contains Duplicate
 - [x] Merge Sorted Array
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [ ] Majority Element
 
 #### [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
