@@ -4,29 +4,30 @@
 After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling overwhelmed, I realized I needed a more structured learning path. Inspired by [this amazing story](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang), I transformed my approach to focus on building strong foundations first.
 
 ## 📈 My Current Progress
-- Problems Solved: 6 / 3385
-- Ranking: 2,278,987
-- Acceptance Rate: 61%
+- Problems Solved: 7 / 3385
+- Ranking: 2,241,779
+- Acceptance Rate: 63%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 6 / 842
+- 🟢 Easy: 7 / 842
 - 🟡 Medium: 0 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[█░░░░░░░░░░░░░░░░░░░] 7% (6/84 problems)
+[█░░░░░░░░░░░░░░░░░░░] 8% (7/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
 
 ### Study Streaks
-- Current Streak: 6 days 🔥
-- Longest Streak: 6 days
-- Total Study Days: 6
+- Current Streak: 7 days 🔥
+- Longest Streak: 7 days
+- Total Study Days: 7
 
 ### This Week's Stats (Week 1)
-- Problems Attempted: 5
-- Success Rate: 100%
+- Problems Attempted: 7
+- Problems Solved on First Try: 6
+- Success Rate: 86%
 - Challenges: 
   - Understanding time complexity of built-in methods
   - Learning to implement Two Pointers pattern
@@ -37,6 +38,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
   - Successfully implemented first Two Pointers solution
   - Improved solution from O(n²) to O(n) time complexity
   - Solved Contains Duplicate in under 1 minute
+  - Came up with a Early Exit Hash Table solution for Majority Element on my own
 
 ### Completed Topics Stack
 1. Arrays Basics
@@ -45,6 +47,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 4. Hash Set for Early Exit
 5. Sorted Array for duplicate detection
 6. Dynamic Programming (State Tracking)
+7. Boyer-Moore Voting Algorithm
 
 ## 📚 Repository Structure
 - `/Old_Solutions`: Previous attempts before structured approach
@@ -61,7 +64,8 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Prefix Sum solution implemented (2.01.2025 - Running Sum of 1d Array)
 *  ✅ First Hash Set solution implemented (3.01.2025 - Contains Duplicate)
 *  ✅ First Dynamic Programming solution implemented (4.01.2025 - Best Time to Buy and Sell Stock)
-*  ✅ 5 Problems Solved Without Help
+*  ✅ First Boyer-Moore Voting solution implemented (5.01.2025 - Majority Element)
+*  ✅ 6 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
@@ -91,6 +95,7 @@ Examples:
   - [Python | Prefix Sum | From O(n²) to O(n) ✨](https://leetcode.com/problems/running-sum-of-1d-array/solutions/6217409/python-prefix-sum-from-on2-to-on-by-aysi-2yi3)
   - [Python | Multiple Approaches: Set, Early Exit, & Sort | Time-Space Trade-offs ✨](https://leetcode.com/problems/contains-duplicate/solutions/6222879/python-multiple-approaches-set-early-exi-jkg6)
   - [Python | From Brute Force to Dynamic Programming: A Beginner's Solution ✨](https://leetcode.com/problems/contains-duplicate/solutions/6228302/python-from-brute-force-to-dynamic-progr-83wr)
+  - [Python & JavaScript | Early Exit HashMap & Boyer-Moore Voting | From Simple to Memory-Optimal ✨](https://leetcode.com/problems/majority-element/solutions/6232871/python-javascript-early-exit-hashmap-boyer-moore-voting-from-simple-to-memory-optimal)
 
 ## 🌟 Contributing
 Found a better solution? I'd love to learn from you! Contact me!

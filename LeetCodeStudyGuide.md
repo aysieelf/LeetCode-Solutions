@@ -17,7 +17,7 @@
 - [x] Contains Duplicate
 - [x] Merge Sorted Array
 - [x] Best Time to Buy and Sell Stock
-- [ ] Majority Element
+- [x] Majority Element
 
 #### [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
 - [ ] Maximum Subarray
