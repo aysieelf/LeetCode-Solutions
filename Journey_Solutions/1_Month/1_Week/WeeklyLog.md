@@ -12,7 +12,7 @@
 | Thu | Contains Duplicate              | Easy       | O(n)            | O(n)             | ✅      |
 | Fri | Merge Sorted Array              | Easy       | O(n)            | O(1)             | ✅      |
 | Sat | Best Time to Buy and Sell Stock | Easy       | O(n)            | O(1)             | 🟡     |
-| Sun | Majority Element                | Easy       |                 |                  |        |
+| Sun | Majority Element                | Easy       | O(n)            | O(1)             | ✅      |
 
 #### Time Complexity Legend:
 - O(1): Constant time
@@ -23,14 +23,14 @@
 - O(2ⁿ): Exponential time
 
 #### Status Legend:
-✅ - Solved completely on my own (might not be optimal)
-🟡 - Needed help (but then solved)
-❌ - Couldn't solve without solution
+* ✅ - Solved completely on my own (might not be optimal)
+* 🟡 - Needed help (but then solved)
+* ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 6
-- Independent Solutions: 5
-- Success Rate: 83%
+- Total Problems: 7
+- Independent Solutions: 6
+- Success Rate: 86%
 
 ### Areas of Improvement
 - [x] Write cleaner code
@@ -41,7 +41,7 @@
 - [x] Practice more with Python's tuple unpacking for cleaner swaps
 - [x] Think about optimization opportunities without compromising readability
 - [x] Practice identifying patterns in problems
-- [ ] Study different approaches to the same problem (hash set vs sorting)
+- [x] Study different approaches to the same problem (hash set vs sorting)
 
 ### Celebrations 🎉
 - Achievement 1: I came up with Hash Table with Parallel Processing for Two Sum which made my solution faster than 100% of submissions. 🚀
@@ -54,5 +54,7 @@
 - Achievement 8: Wrote clean, well-documented code with clear variable names and edge cases! 📝
 - Achievement 9: Successfully implemented Prefix Sum pattern for Running Sum of 1d Array! 🚀
 - Achievement 10: Solved Contains Duplicate independently in just 1 minute! 🚀
-- Learned and implemented my first Dynamic Programming solution with Best Time to Buy and Sell Stock! 🎯
+- Achievement 11: Learned and implemented my first Dynamic Programming solution with Best Time to Buy and Sell Stock! 🎯
+- Achievement 12: Successfully implemented Boyer-Moore Voting Algorithm for Majority Element! 🚀
+- Achievement 13: Solved Majority Element in just 4 minutes completely on my own! 🚀
 ---
