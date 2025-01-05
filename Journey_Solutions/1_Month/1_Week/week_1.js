@@ -99,3 +99,34 @@ var maxProfit = function(prices) {
     }
     return max_profit;
 }
+
+// 169. Majority Element
+var majorityElement = function(nums) {
+    const len_n = nums.length;
+    const count = {};
+    for (const num of nums) {
+        count[num] = (count[num] || 0) + 1;
+
+        if (count[num] > len_n / 2) {
+            return num;
+        }
+    }
+};
+
+var majorityElement = function(nums) {
+    let candidate = nums[0];
+    let count = 1;
+    for (const num of nums.slice(1)) {
+        if (num === candidate) {
+            count++;
+        }
+        else {
+            count--;
+            if (count === 0) {
+                candidate = num;
+                count = 1;
+            }
+        }
+    }
+    return candidate;
+};
