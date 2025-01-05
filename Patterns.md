@@ -8,6 +8,7 @@
 - [Hash Set](#hash-set)
 - [Sorted Array](#sorted-array)
 - [Dynamic Programming (State Tracking)](#dynamic-programming-state-tracking)
+- [Boyer-Moore Voting Algorithm](#boyer-moore-voting-algorithm)
 
 ## Hash Table with Parallel Processing
 ### Core Concept
@@ -177,3 +178,27 @@ def dp_state_tracking(arr):
     return max_result
 ```
 -----
+## Boyer-Moore Voting Algorithm
+### Core Concept
+- Basic idea: We maintain a count and a candidate, and we decrease/increase them based on certain conditions
+- When to use: When we need to find the majority element in an array (appears more than n/2 times)
+  - I used it in [169_Majority_Element problem](Journey_Solutions/1_Month/1_Week/169_Majority_Element.py)
+
+### Template
+```python
+def boyer_moore_voting(arr):
+    candidate = arr[0]
+    count = 1
+    
+    # Process array using voting system
+    for num in arr[1:]:
+        if num == candidate:
+            count += 1
+        else:
+            count -= 1
+            if count == 0:
+                candidate = num
+                count = 1
+    
+    return candidate
+```
