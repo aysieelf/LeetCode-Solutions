@@ -17,28 +17,21 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 ### Current Level
 [█░░░░░░░░░░░░░░░░░░░] 8% (7/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
-- [Week 1: Basic Array Operations](Journey_Solutions/1_Month/1_Week)
+- [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
 
 ### Study Streaks
 - Current Streak: 7 days 🔥
 - Longest Streak: 7 days
 - Total Study Days: 7
 
-### This Week's Stats (Week 1)
-- Problems Attempted: 7
-- Problems Solved on First Try: 6
-- Success Rate: 86%
-- Challenges: 
-  - Understanding time complexity of built-in methods
-  - Learning to implement Two Pointers pattern
-  - Choosing optimal approach (front-to-back vs back-to-front)
-  - Analyzing early exit opportunities with Hash Set
+### This Week's Stats (Week 2)
+- Problems Attempted: 0
+- Problems Solved on First Try: 0
+- Success Rate: 0%
+- Challenges:
+  - Challenge 1:
 - Achievements:
-  - 100% speed performance in Two Sum and Merge Sorted Array
-  - Successfully implemented first Two Pointers solution
-  - Improved solution from O(n²) to O(n) time complexity
-  - Solved Contains Duplicate in under 1 minute
-  - Came up with a Early Exit Hash Table solution for Majority Element on my own
+  - Achievement 1:
 
 ### Completed Topics Stack
 1. Arrays Basics
@@ -65,6 +58,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Hash Set solution implemented (3.01.2025 - Contains Duplicate)
 *  ✅ First Dynamic Programming solution implemented (4.01.2025 - Best Time to Buy and Sell Stock)
 *  ✅ First Boyer-Moore Voting solution implemented (5.01.2025 - Majority Element)
+*  ✅ First Week Completed (5.01.2025)
 *  ✅ 6 Problems Solved Without Help
 
 ## 📝 Solution Template
