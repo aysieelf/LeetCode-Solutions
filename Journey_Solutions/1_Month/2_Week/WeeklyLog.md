@@ -4,7 +4,7 @@
 ### Problems Completed
 | Day  | Problem                             | Difficulty | Time Complexity | Space Complexity | Status |
 |------|-------------------------------------|------------|-----------------|------------------|--------|
-| Mon  | Maximum Subarray                    | Medium     |                 |                  |        |
+| Mon  | Maximum Subarray                    | Medium     | O(n)            | O(1)             | 🟡     |
 | Tue  | Plus One                            | Easy       |                 |                  |        |
 | Wed  | Remove Duplicates from Sorted Array | Easy       |                 |                  |        |
 | Thu  | Search Insert Position              | Easy       |                 |                  |        |
@@ -26,19 +26,17 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: XX
-- Easy: XX
-- Independent Solutions: XX
-- Success Rate: XX%
+- Total Problems: 1
+- Independent Solutions: 0
+- Success Rate: 50%
 
 ### Areas of Improvement
-- [ ] Topic 1
-- [ ] Topic 2
-- [ ] Topic 3
+- [ ] Dynamic Programming patterns
+- [ ] Coming up with optimal solutions
+- [ ] Time complexity optimization
 
 ### Celebrations 🎉
-- Achievement 1:
-- Achievement 2:
-- Achievement 3:
+- Achievement 1: Implemented Kadane's Algorithm for Maximum Subarray problem
+- Achievement 2: Successfully optimized time complexity for Maximum Subarray problem from 20% to 90%
 
 ---
