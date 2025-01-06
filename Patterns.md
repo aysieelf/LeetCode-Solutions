@@ -202,3 +202,31 @@ def boyer_moore_voting(arr):
     
     return candidate
 ```
+-----
+## Kadane's Algorithm (Dynamic Programming)
+### Core Concept
+- Basic idea: We keep track of the maximum subarray sum ending at the current index
+- When to use: When we need to find the maximum subarray sum in an array
+  - I used it in [53_Maximum_Subarray problem](Journey_Solutions/1_Month/2_Week/53_Maximum_Subarray.py)
+  - Perfect for problems involving contiguous sequences where we need to optimize some value
+
+### Template
+```python
+def kadanes_algorithm(arr):
+    current_sum = 0
+    max_sum = float('-inf')
+    
+    for num in arr:
+        # Decide: continue current subarray or start new one
+        if current_sum + num > num:
+            current_sum += num
+        else:
+            current_sum = num
+            
+        # Update global maximum if needed
+        if current_sum > max_sum:
+            max_sum = current_sum
+    
+    return max_sum
+```
+-----
