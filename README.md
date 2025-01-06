@@ -4,34 +4,36 @@
 After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling overwhelmed, I realized I needed a more structured learning path. Inspired by [this amazing story](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang), I transformed my approach to focus on building strong foundations first.
 
 ## 📈 My Current Progress
-- Problems Solved: 7 / 3385
-- Ranking: 2,241,779
+- Problems Solved: 8 / 3385
+- Ranking: 2,207,673
 - Acceptance Rate: 63%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 7 / 842
+- 🟢 Easy: 8 / 842
 - 🟡 Medium: 0 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[█░░░░░░░░░░░░░░░░░░░] 8% (7/84 problems)
+[██░░░░░░░░░░░░░░░░░░] 10% (8/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
 
 ### Study Streaks
-- Current Streak: 7 days 🔥
-- Longest Streak: 7 days
-- Total Study Days: 7
+- Current Streak: 8 days 🔥
+- Longest Streak: 8 days
+- Total Study Days: 8
 
 ### This Week's Stats (Week 2)
-- Problems Attempted: 0
+- Problems Attempted: 1
 - Problems Solved on First Try: 0
-- Success Rate: 0%
+- Success Rate: 50%
 - Challenges:
-  - Challenge 1:
+  - Challenge 1: Dynamic Programming patterns
 - Achievements:
-  - Achievement 1:
+  - Achievement 1: First Kadane's Algorithm solution implemented
+  - Achievement 2: First Week Completed
+  - Achievement 3: Successfully optimized solution from 20% to 90% on my own
 
 ### Completed Topics Stack
 1. Arrays Basics
@@ -41,6 +43,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 5. Sorted Array for duplicate detection
 6. Dynamic Programming (State Tracking)
 7. Boyer-Moore Voting Algorithm
+8. Kadane's Algorithm (Dynamic Programming)
 
 ## 📚 Repository Structure
 - `/Old_Solutions`: Previous attempts before structured approach
@@ -59,6 +62,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Dynamic Programming solution implemented (4.01.2025 - Best Time to Buy and Sell Stock)
 *  ✅ First Boyer-Moore Voting solution implemented (5.01.2025 - Majority Element)
 *  ✅ First Week Completed (5.01.2025)
+*  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
 *  ✅ 6 Problems Solved Without Help
 
 ## 📝 Solution Template
@@ -90,6 +94,7 @@ Examples:
   - [Python | Multiple Approaches: Set, Early Exit, & Sort | Time-Space Trade-offs ✨](https://leetcode.com/problems/contains-duplicate/solutions/6222879/python-multiple-approaches-set-early-exi-jkg6)
   - [Python | From Brute Force to Dynamic Programming: A Beginner's Solution ✨](https://leetcode.com/problems/contains-duplicate/solutions/6228302/python-from-brute-force-to-dynamic-progr-83wr)
   - [Python & JavaScript | Early Exit HashMap & Boyer-Moore Voting | From Simple to Memory-Optimal ✨](https://leetcode.com/problems/majority-element/solutions/6232871/python-javascript-early-exit-hashmap-boyer-moore-voting-from-simple-to-memory-optimal)
+  - [Python | Kadane's Algorithm | From 20% to 90% - Performance Evolution! ✨](https://leetcode.com/problems/maximum-subarray/solutions/6239319/python-kadanes-algorithm-from-20-to-90-p-46ro)
 
 ## 🌟 Contributing
 Found a better solution? I'd love to learn from you! Contact me!

@@ -20,7 +20,7 @@
 - [x] Majority Element
 
 #### [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
-- [ ] Maximum Subarray
+- [x] Maximum Subarray
 - [ ] Plus One
 - [ ] Remove Duplicates from Sorted Array
 - [ ] Search Insert Position
