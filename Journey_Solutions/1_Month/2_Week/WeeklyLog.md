@@ -5,7 +5,7 @@
 | Day  | Problem                             | Difficulty | Time Complexity | Space Complexity | Status |
 |------|-------------------------------------|------------|-----------------|------------------|--------|
 | Mon  | Maximum Subarray                    | Medium     | O(n)            | O(1)             | 🟡     |
-| Tue  | Plus One                            | Easy       |                 |                  |        |
+| Tue  | Plus One                            | Easy       | O(n)            | O(1)             | ✅      |
 | Wed  | Remove Duplicates from Sorted Array | Easy       |                 |                  |        |
 | Thu  | Search Insert Position              | Easy       |                 |                  |        |
 | Fri  | Single Number                       | Easy       |                 |                  |        |
@@ -26,17 +26,22 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 1
-- Independent Solutions: 0
-- Success Rate: 50%
+- Total Problems: 2
+- Independent Solutions: 1
+- Success Rate: 75%
 
 ### Areas of Improvement
 - [ ] Dynamic Programming patterns
-- [ ] Coming up with optimal solutions
+- [x] Coming up with optimal solutions
 - [ ] Time complexity optimization
+- [ ] Array manipulation techniques
+- [ ] Initial solution design (avoiding over-engineering)
+- [ ] Understanding built-in Python array methods performance (insert vs concatenation)
 
 ### Celebrations 🎉
 - Achievement 1: Implemented Kadane's Algorithm for Maximum Subarray problem
 - Achievement 2: Successfully optimized time complexity for Maximum Subarray problem from 20% to 90%
+- Achievement 3: Solved Plus One completely independently
+- Achievement 4: Good understanding of space/time complexity trade-offs
 
 ---
