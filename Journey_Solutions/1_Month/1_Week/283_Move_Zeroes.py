@@ -22,8 +22,8 @@ class Solution:
         """
         zero_i = 0
 
-        for i, num in enumerate(nums):
-            if num != 0:
+        for i in range(len(nums)):
+            if nums[i] != 0:
                 nums[zero_i], nums[i] = nums[i], nums[zero_i]
                 zero_i += 1
 
