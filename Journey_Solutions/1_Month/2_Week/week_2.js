@@ -44,3 +44,44 @@ var maxSubArray = function(nums) {
     }
     return max_sum;
 };
+
+// 66. Plus One
+var plusOne = function(digits) {
+    let last_i = digits.length - 1;
+    let extra_one = 1;
+    while (extra_one && last_i >= 0) {
+        const curr_sum = digits[last_i] + 1;
+        digits[last_i] = curr_sum % 10;
+        extra_one = Math.floor(curr_sum / 10);
+        last_i--;
+    }
+    if (extra_one) {
+        digits.unshift(1);
+    }
+    return digits;
+};
+
+var plusOne = function(digits) {
+    for (let i = digits.length - 1; i > -1; i--) {
+        if (digits[i] < 9) {
+            digits[i]++;
+            return digits;
+        }
+        digits[i] = 0;
+    }
+    return [1, ...digits];
+};
+
+var plusOne = function(digits) {
+    for (let i = digits.length - 1; i > -1; i--) {
+        if (digits[i] < 9) {
+            digits[i]++;
+            return digits;
+        }
+        digits[i] = 0;
+        if (i === 0) {
+            digits.unshift(1);
+            return digits;
+        }
+    }
+};
