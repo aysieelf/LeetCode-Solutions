@@ -12,29 +12,30 @@
 ## Time Tracking
 | Phase          | Time   |
 |----------------|--------|
-| Understanding  | XX min |
-| First Attempt  | XX min |
-| Solution Study | XX min |
-| Implementation | XX min |
-| Total Time     | XX min |
+| Understanding  | 4 min  |
+| First Attempt  | 7 min  |
+| Solution Study | 9 min  |
+| Implementation | 1 min  |
+| Total Time     | 21 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
-- [ ] Finding the right approach
-- [ ] Implementation
-- [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Understanding the problem
+- [x] Finding the right approach
+- [x] Implementation
+- [x] Handling edge cases
+- [x] Understanding time complexity
+- Details of difficulties encountered: Initial solution was more complex with unnecessary None assignments
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: How to effectively use for loop with two pointers pattern
+- Mistake to avoid: Don't overcomplicate the solution with unnecessary checks
+- Better approach: Using for loop instead of while makes the code more concise
+
 
 ### Performance Rating
-- First Try: 🟢 / 🟡 / 🔴
-- Understanding: 🟢 / 🟡 / 🔴
-- Implementation: 🟢 / 🟡 / 🔴
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟡
 
 ---
