@@ -4,36 +4,38 @@
 After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling overwhelmed, I realized I needed a more structured learning path. Inspired by [this amazing story](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang), I transformed my approach to focus on building strong foundations first.
 
 ## 📈 My Current Progress
-- Problems Solved: 9 / 3385
+- Problems Solved: 10 / 3385
 - Ranking: 2,173,706
-- Acceptance Rate: 64%
+- Acceptance Rate: 65%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 9 / 842
+- 🟢 Easy: 10 / 842
 - 🟡 Medium: 0 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[██░░░░░░░░░░░░░░░░░░] 11% (9/84 problems)
+[██░░░░░░░░░░░░░░░░░░] 12% (10/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
 
 ### Study Streaks
-- Current Streak: 9 days 🔥
-- Longest Streak: 9 days
-- Total Study Days: 9
+- Current Streak: 10 days 🔥
+- Longest Streak: 10 days
+- Total Study Days: 10
 
 ### This Week's Stats (Week 2)
-- Problems Attempted: 2
-- Problems Solved on First Try: 1
-- Success Rate: 75%
+- Problems Attempted: 3
+- Problems Solved on First Try: 2
+- Success Rate: 83%
 - Challenges:
   - Challenge 1: Dynamic Programming patterns
+  - Challenge 2: Writing cleaner solutions
 - Achievements:
   - Achievement 1: First Kadane's Algorithm solution implemented
   - Achievement 2: First Week Completed
   - Achievement 3: Successfully optimized solution from 20% to 90% on my own
+  - Achievement 4: I felt comfortable using Two Pointers pattern
 
 ### Completed Topics Stack
 1. Arrays Basics
@@ -63,7 +65,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Boyer-Moore Voting solution implemented (5.01.2025 - Majority Element)
 *  ✅ First Week Completed (5.01.2025)
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
-*  ✅ 6 Problems Solved Without Help
+*  ✅ 8 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
@@ -96,6 +98,8 @@ Examples:
   - [Python & JavaScript | Early Exit HashMap & Boyer-Moore Voting | From Simple to Memory-Optimal ✨](https://leetcode.com/problems/majority-element/solutions/6232871/python-javascript-early-exit-hashmap-boyer-moore-voting-from-simple-to-memory-optimal)
   - [Python | Kadane's Algorithm | From 20% to 90% - Performance Evolution! ✨](https://leetcode.com/problems/maximum-subarray/solutions/6239319/python-kadanes-algorithm-from-20-to-90-p-46ro)
   - [Python | Array Manipulation | In-place vs New Array - Performance Deep Dive! ✨](https://leetcode.com/problems/plus-one/solutions/6244316/python-array-manipulation-in-place-vs-ne-yj64)
+  - [ Python | Two Pointers | Bears 100% ✨](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6248281/python-two-pointers-bears-100-by-aysieel-30es)
+
 
 ## 🌟 Contributing
 Found a better solution? I'd love to learn from you! Contact me!

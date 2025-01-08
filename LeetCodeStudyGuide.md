@@ -22,7 +22,7 @@
 #### [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
 - [x] Maximum Subarray
 - [x] Plus One
-- [ ] Remove Duplicates from Sorted Array
+- [x] Remove Duplicates from Sorted Array
 - [ ] Search Insert Position
 - [ ] Single Number
 - [ ] Find Pivot Index
