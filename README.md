@@ -3,6 +3,16 @@
 ## 🔄 Why I Changed My Approach
 After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling overwhelmed, I realized I needed a more structured learning path. Inspired by [this amazing story](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang), I transformed my approach to focus on building strong foundations first.
 
+## Table of Contents
+- [My Current Progress](#-my-current-progress)
+- [Solutions by Difficulty](#-solutions-by-difficulty)
+- [Journey Progress](#-journey-progress)
+- [Repository Structure](#-repository-structure)
+- [Achievements](#-achievements)
+- [Solution Template](#-solution-template)
+- [Quick Links (My shared Leetcode Solutions)](#-quick-links)
+- [Contributing](#-contributing)
+
 ## 📈 My Current Progress
 - Problems Solved: 11 / 3385
 - Ranking: 2,140,629
@@ -101,6 +111,7 @@ Examples:
   - [Python | Kadane's Algorithm | From 20% to 90% - Performance Evolution! ✨](https://leetcode.com/problems/maximum-subarray/solutions/6239319/python-kadanes-algorithm-from-20-to-90-p-46ro)
   - [Python | Array Manipulation | In-place vs New Array - Performance Deep Dive! ✨](https://leetcode.com/problems/plus-one/solutions/6244316/python-array-manipulation-in-place-vs-ne-yj64)
   - [Python | Two Pointers | Bears 100% ✨](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6248281/python-two-pointers-bears-100-by-aysieel-30es)
+  - [Python | Easy to Read Binary Search | Beats 100% ✨](https://leetcode.com/problems/search-insert-position/solutions/6253947/python-easy-to-read-binary-search-beats-tzkop)
 
 
 ## 🌟 Contributing
