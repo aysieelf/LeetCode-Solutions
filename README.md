@@ -4,38 +4,40 @@
 After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling overwhelmed, I realized I needed a more structured learning path. Inspired by [this amazing story](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang), I transformed my approach to focus on building strong foundations first.
 
 ## 📈 My Current Progress
-- Problems Solved: 10 / 3385
-- Ranking: 2,173,706
-- Acceptance Rate: 65%
+- Problems Solved: 11 / 3385
+- Ranking: 2,140,629
+- Acceptance Rate: 64%
 
 ## 🗂️ Solutions by Difficulty
 - 🟢 Easy: 10 / 842
-- 🟡 Medium: 0 / 1766
+- 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[██░░░░░░░░░░░░░░░░░░] 12% (10/84 problems)
+[██░░░░░░░░░░░░░░░░░░] 13% (11/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
 
 ### Study Streaks
-- Current Streak: 10 days 🔥
-- Longest Streak: 10 days
-- Total Study Days: 10
+- Current Streak: 11 days 🔥
+- Longest Streak: 11 days
+- Total Study Days: 11
 
 ### This Week's Stats (Week 2)
-- Problems Attempted: 3
-- Problems Solved on First Try: 2
-- Success Rate: 83%
+- Problems Attempted: 4
+- Problems Solved on First Try: 3
+- Success Rate: 88%
 - Challenges:
   - Challenge 1: Dynamic Programming patterns
   - Challenge 2: Writing cleaner solutions
+  - Challenge 3: Coming up with the cleanest binary search solution
 - Achievements:
   - Achievement 1: First Kadane's Algorithm solution implemented
   - Achievement 2: First Week Completed
   - Achievement 3: Successfully optimized solution from 20% to 90% on my own
   - Achievement 4: I felt comfortable using Two Pointers pattern
+  - Achievement 5: I wrote a working Binary Search solution on my own
 
 ### Completed Topics Stack
 1. Arrays Basics
@@ -46,6 +48,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 6. Dynamic Programming (State Tracking)
 7. Boyer-Moore Voting Algorithm
 8. Kadane's Algorithm (Dynamic Programming)
+9. Binary Search Basics
 
 ## 📚 Repository Structure
 - `/Old_Solutions`: Previous attempts before structured approach
@@ -55,17 +58,16 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [View my detailed study plan](LeetCodeStudyGuide.md)
 
 ## 🎖️ Achievements
-*  ✅ First week started! (30.12.2024)
 *  ✅ First problem solved without help (30.12.2024)
-*  ✅ First two pointers solution implemented without help (1.01.2025 - Move Zeroes)
+*  ✅ First Two Pointers solution implemented without help (1.01.2025 - Move Zeroes)
 *  ✅ First LeetCode solution shared (1.01.2025 - Move Zeroes - `Python | Two Pointers | 5 line ✨`)
 *  ✅ First Prefix Sum solution implemented (2.01.2025 - Running Sum of 1d Array)
 *  ✅ First Hash Set solution implemented (3.01.2025 - Contains Duplicate)
 *  ✅ First Dynamic Programming solution implemented (4.01.2025 - Best Time to Buy and Sell Stock)
 *  ✅ First Boyer-Moore Voting solution implemented (5.01.2025 - Majority Element)
-*  ✅ First Week Completed (5.01.2025)
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
-*  ✅ 8 Problems Solved Without Help
+*  ✅ First Binary Search solution implemented (9.01.2025 - Search Insert Position)
+*  ✅ 9 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
@@ -98,7 +100,7 @@ Examples:
   - [Python & JavaScript | Early Exit HashMap & Boyer-Moore Voting | From Simple to Memory-Optimal ✨](https://leetcode.com/problems/majority-element/solutions/6232871/python-javascript-early-exit-hashmap-boyer-moore-voting-from-simple-to-memory-optimal)
   - [Python | Kadane's Algorithm | From 20% to 90% - Performance Evolution! ✨](https://leetcode.com/problems/maximum-subarray/solutions/6239319/python-kadanes-algorithm-from-20-to-90-p-46ro)
   - [Python | Array Manipulation | In-place vs New Array - Performance Deep Dive! ✨](https://leetcode.com/problems/plus-one/solutions/6244316/python-array-manipulation-in-place-vs-ne-yj64)
-  - [ Python | Two Pointers | Bears 100% ✨](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6248281/python-two-pointers-bears-100-by-aysieel-30es)
+  - [Python | Two Pointers | Bears 100% ✨](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6248281/python-two-pointers-bears-100-by-aysieel-30es)
 
 
 ## 🌟 Contributing

@@ -23,7 +23,7 @@
 - [x] Maximum Subarray
 - [x] Plus One
 - [x] Remove Duplicates from Sorted Array
-- [ ] Search Insert Position
+- [x] Search Insert Position
 - [ ] Single Number
 - [ ] Find Pivot Index
 - [ ] Remove Element
