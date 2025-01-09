@@ -155,18 +155,6 @@
   - Close solution and implement yourself
   - Document pattern and learnings
 
-### Evening Session (1 hour) 🌙
-1. **Code Review (30 min)**
-  - Review morning's solution
-  - Read discussion solutions
-  - Note interesting approaches
-
-2. **Planning (30 min)**
-  - Select tomorrow's problem
-  - Review day's notes
-  - Mark unclear concepts
-  - Update tracking sheet
-
 ## Tracking & Tools
 
 ### Problem Tracking Sheet 📊
@@ -207,7 +195,7 @@ Track for each problem:
 
 ## Study Tips
 
-### Problem Solving Approach 🎯
+### Problem-Solving Approach 🎯
 1. Read CAREFULLY
 2. Write own examples
 3. Consider edge cases

@@ -13,12 +13,10 @@ Edge cases:
 from typing import List
 
 
-# Set Length Comparison
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         return len(set(nums)) == len(nums)
 
-# Early Exit Hash Set
 def contains_duplicate(nums):
     seen = set()
     for num in nums:

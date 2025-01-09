@@ -230,3 +230,32 @@ def kadanes_algorithm(arr):
     return max_sum
 ```
 -----
+## Binary Search
+### Core Concept
+- Basic idea: Search for an element in a sorted array by repeatedly dividing the search space in half
+- When to use:
+  - When the array is sorted
+  - When searching for a specific value
+  - When we need O(log n) instead of O(n)
+  - Finding insertion points in sorted arrays
+  - I used it in [35_Search_Insert_Position problem](Journey_Solutions/1_Month/2_Week/35_Search_Insert_Position.py)
+
+### Template
+```python
+def binary_search(arr, target):
+    left = 0
+    right = len(arr) - 1
+    
+    while left <= right:
+        mid = (left + right) // 2  # Important: integer division
+        
+        if arr[mid] == target:
+            return mid            # We found the target
+        elif arr[mid] < target:
+            left = mid + 1        # Search in right half
+        else:
+            right = mid - 1       # Search in left half
+    
+    return left  # For insertion point
+```
+-----
