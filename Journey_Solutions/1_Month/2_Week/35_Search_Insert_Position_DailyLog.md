@@ -12,29 +12,29 @@
 ## Time Tracking
 | Phase          | Time   |
 |----------------|--------|
-| Understanding  | XX min |
-| First Attempt  | XX min |
-| Solution Study | XX min |
-| Implementation | XX min |
-| Total Time     | XX min |
+| Understanding  | 2 min  |
+| First Attempt  | 30 min |
+| Solution Study | 2 min  |
+| Implementation | 2 min  |
+| Total Time     | 36 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
-- [ ] Finding the right approach
+- [x] Understanding the problem
+- [x] Finding the right approach
 - [ ] Implementation
 - [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Understanding time complexity
+- Details of difficulties encountered:
+  - Initially overcomplicated the solution by adding special cases for arrays of length 2 and using three pointers instead of the standard binary search approach. The solution worked but was more complex than necessary.
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: Binary Search can be used not just for finding elements, but also for finding insertion positions in sorted arrays
+- Mistake to avoid: Don't overcomplicate binary search with special cases - the standard template handles all cases elegantly
+- Better approach: Use the standard binary search template with left pointer as the natural insertion point
 
 ### Performance Rating
-- First Try: 🟢 / 🟡 / 🔴
-- Understanding: 🟢 / 🟡 / 🔴
-- Implementation: 🟢 / 🟡 / 🔴
-
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟡
 ---

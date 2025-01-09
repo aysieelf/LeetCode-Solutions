@@ -7,7 +7,7 @@
 | Mon  | Maximum Subarray                    | Medium     | O(n)            | O(1)             | 🟡     |
 | Tue  | Plus One                            | Easy       | O(n)            | O(1)             | ✅      |
 | Wed  | Remove Duplicates from Sorted Array | Easy       | O(n)            | O(1)             | ✅      |
-| Thu  | Search Insert Position              | Easy       |                 |                  |        |
+| Thu  | Search Insert Position              | Easy       | O(log n)        | O(1)             | ✅      |
 | Fri  | Single Number                       | Easy       |                 |                  |        |
 | Sat  | Find Pivot Index                    | Easy       |                 |                  |        |
 | Sun  | Remove Element                      | Easy       |                 |                  |        |
@@ -26,17 +26,18 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 3
-- Independent Solutions: 2
-- Success Rate: 83%
+- Total Problems: 4
+- Independent Solutions: 3
+- Success Rate: 88%
 
 ### Areas of Improvement
 - [ ] Dynamic Programming patterns
 - [x] Coming up with optimal solutions
-- [ ] Time complexity optimization
+- [x] Time complexity optimization
 - [x] Array manipulation techniques
-- [ ] Initial solution design (avoiding over-engineering)
+- [x] Initial solution design (avoiding over-engineering)
 - [x] Understanding built-in Python array methods performance (insert vs concatenation)
+- [x] Binary search implementation
 
 ### Celebrations 🎉
 - Achievement 1: Implemented Kadane's Algorithm for Maximum Subarray problem
@@ -44,4 +45,5 @@
 - Achievement 3: Solved Plus One completely independently
 - Achievement 4: Good understanding of space/time complexity trade-offs
 - Achievement 5: I feel comfortable using Two pointers pattern
+- Achievement 6: Successfully implemented Binary Search (though initially complex, got to a clean solution!)
 ---
