@@ -259,3 +259,22 @@ def binary_search(arr, target):
     return left  # For insertion point
 ```
 -----
+## Bit Manipulation (XOR)
+### Core Concept
+- Basic idea: XOR operations track unique elements by automatically canceling out duplicates - when the same number is encountered twice, it's removed from the result
+- When to use:
+  - When we need to find unique elements with constant space complexity
+  - When dealing with duplicate removal problems where each element appears exactly twice, except for one
+  - Example: Used in [136. Single Number](Journey_Solutions/1_Month/2_Week/136_Single_Number.py)
+
+### Template Code
+```python
+def xor_operator(nums):
+    result = 0
+    # XOR all numbers - duplicates will cancel out
+    for num in nums:
+        result ^= num  # XOR operation: a^a = 0, a^0 = a
+    
+    return result  # The remaining value is the unique element
+```
+-----
