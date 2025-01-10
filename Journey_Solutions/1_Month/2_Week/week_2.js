@@ -123,3 +123,28 @@ var searchInsert = function(nums, target) {
     }
     return left;
 };
+
+// 36. Single Number
+var singleNumber = function(nums) {
+    let result = 0;
+
+    for (const num of nums) {
+        result ^= num;
+    }
+    return result;
+};
+
+var singleNumber = function(nums) {
+    const seen = new Set();
+
+    for (const num of nums) {
+        if (seen.has(num)) {
+            seen.delete(num);
+        }
+        else {
+            seen.add(num);
+        }
+    }
+    return [...seen][0];
+};
+
