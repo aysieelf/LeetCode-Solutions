@@ -24,7 +24,7 @@
 - [x] Plus One
 - [x] Remove Duplicates from Sorted Array
 - [x] Search Insert Position
-- [ ] Single Number
+- [x] Single Number
 - [ ] Find Pivot Index
 - [ ] Remove Element
 

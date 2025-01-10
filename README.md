@@ -10,38 +10,39 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Repository Structure](#-repository-structure)
 - [Achievements](#-achievements)
 - [Solution Template](#-solution-template)
-- [Quick Links (My shared Leetcode Solutions)](#-quick-links)
+- [Quick Links (My shared LeetCode Solutions)](#-quick-links)
 - [Contributing](#-contributing)
 
 ## 📈 My Current Progress
-- Problems Solved: 11 / 3385
-- Ranking: 2,140,629
-- Acceptance Rate: 64%
+- Problems Solved: 12 / 3385
+- Ranking: 2,109,039
+- Acceptance Rate: 65%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 10 / 842
+- 🟢 Easy: 11 / 842
 - 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[██░░░░░░░░░░░░░░░░░░] 13% (11/84 problems)
+[██░░░░░░░░░░░░░░░░░░] 14% (12/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
 
 ### Study Streaks
-- Current Streak: 11 days 🔥
-- Longest Streak: 11 days
-- Total Study Days: 11
+- Current Streak: 12 days 🔥
+- Longest Streak: 12 days
+- Total Study Days: 12
 
 ### This Week's Stats (Week 2)
-- Problems Attempted: 4
-- Problems Solved on First Try: 3
-- Success Rate: 88%
+- Problems Attempted: 5
+- Problems Solved on First Try: 4.5
+- Success Rate: 90%
 - Challenges:
   - Challenge 1: Dynamic Programming patterns
   - Challenge 2: Writing cleaner solutions
   - Challenge 3: Coming up with the cleanest binary search solution
+  - Challenge 4: Understanding bit operations (XOR)
 - Achievements:
   - Achievement 1: First Kadane's Algorithm solution implemented
   - Achievement 2: First Week Completed
@@ -59,6 +60,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 7. Boyer-Moore Voting Algorithm
 8. Kadane's Algorithm (Dynamic Programming)
 9. Binary Search Basics
+10. Bit Manipulation (XOR)
 
 ## 📚 Repository Structure
 - `/Old_Solutions`: Previous attempts before structured approach
@@ -77,7 +79,8 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Boyer-Moore Voting solution implemented (5.01.2025 - Majority Element)
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
 *  ✅ First Binary Search solution implemented (9.01.2025 - Search Insert Position)
-*  ✅ 9 Problems Solved Without Help
+*  ✅ First Bit Manipulation solution implemented (10.01.2025 - Single Number)
+*  ✅ 10 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
