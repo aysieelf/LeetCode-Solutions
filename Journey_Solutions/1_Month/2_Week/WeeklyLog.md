@@ -8,7 +8,7 @@
 | Tue  | Plus One                            | Easy       | O(n)            | O(1)             | ✅      |
 | Wed  | Remove Duplicates from Sorted Array | Easy       | O(n)            | O(1)             | ✅      |
 | Thu  | Search Insert Position              | Easy       | O(log n)        | O(1)             | ✅      |
-| Fri  | Single Number                       | Easy       |                 |                  |        |
+| Fri  | Single Number                       | Easy       | O(n)            | O(1)             | ✅      |
 | Sat  | Find Pivot Index                    | Easy       |                 |                  |        |
 | Sun  | Remove Element                      | Easy       |                 |                  |        |
 
@@ -26,18 +26,19 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 4
-- Independent Solutions: 3
-- Success Rate: 88%
+- Total Problems: 5
+- Independent Solutions: 4.5
+- Success Rate: 90%
 
 ### Areas of Improvement
-- [ ] Dynamic Programming patterns
+- [x] Dynamic Programming patterns
 - [x] Coming up with optimal solutions
 - [x] Time complexity optimization
 - [x] Array manipulation techniques
 - [x] Initial solution design (avoiding over-engineering)
 - [x] Understanding built-in Python array methods performance (insert vs concatenation)
 - [x] Binary search implementation
+- [ ] Bit manipulation and operations
 
 ### Celebrations 🎉
 - Achievement 1: Implemented Kadane's Algorithm for Maximum Subarray problem
@@ -46,4 +47,5 @@
 - Achievement 4: Good understanding of space/time complexity trade-offs
 - Achievement 5: I feel comfortable using Two pointers pattern
 - Achievement 6: Successfully implemented Binary Search (though initially complex, got to a clean solution!)
+- Achievement 7: Developed independent solution for Single Number (though not optimal)
 ---

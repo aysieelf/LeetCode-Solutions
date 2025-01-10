@@ -34,8 +34,3 @@ sol = Solution()
 nums = [1,3,5,6]
 t = 7
 print(sol.searchInsert(nums, t))
-
-
-
-
-

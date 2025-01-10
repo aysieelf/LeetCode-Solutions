@@ -12,29 +12,29 @@
 ## Time Tracking
 | Phase          | Time   |
 |----------------|--------|
-| Understanding  | XX min |
-| First Attempt  | XX min |
-| Solution Study | XX min |
-| Implementation | XX min |
-| Total Time     | XX min |
+| Understanding  | 5 min  |
+| First Attempt  | 2 min  |
+| Solution Study | 5 min  |
+| Implementation | 2 min  |
+| Total Time     | 14 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
+- [x] Understanding the problem
 - [ ] Finding the right approach
-- [ ] Implementation
-- [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Implementation
+- [x] Handling edge cases
+- [x] Understanding time complexity
+- Details of difficulties encountered: Successfully implemented initial solution using set, but needed help understanding the optimal XOR approach
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: Bit manipulation offers powerful operators - XOR can be used to track unique numbers by automatically handling duplicates in the result
+- Mistake to avoid: Using extra space when a constant space complexity solution is possible
+- Better approach: Using XOR to eliminate duplicates rather than using a set
 
 ### Performance Rating
-- First Try: 🟢 / 🟡 / 🔴
-- Understanding: 🟢 / 🟡 / 🔴
-- Implementation: 🟢 / 🟡 / 🔴
+- First Try: 🟡
+- Understanding: 🟡
+- Implementation: 🟢
 
 ---
