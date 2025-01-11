@@ -148,3 +148,17 @@ var singleNumber = function(nums) {
     return [...seen][0];
 };
 
+// 724. Find Pivot Index
+var pivotIndex = function(nums) {
+    let left_half = 0;
+    let right_half = nums.reduce((a, b) => a + b, 0);
+
+    for (let i = 0; i < nums.length; i++) {
+        right_half -= nums[i];
+        if (left_half === right_half) {
+            return i;
+        }
+        left_half += nums[i];
+    }
+    return -1;
+};
