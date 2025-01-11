@@ -25,7 +25,7 @@
 - [x] Remove Duplicates from Sorted Array
 - [x] Search Insert Position
 - [x] Single Number
-- [ ] Find Pivot Index
+- [x] Find Pivot Index
 - [ ] Remove Element
 
 #### [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)

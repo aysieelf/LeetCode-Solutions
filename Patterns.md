@@ -259,7 +259,7 @@ def binary_search(arr, target):
     return left  # For insertion point
 ```
 -----
-## Bit Manipulation (XOR)
+## Bit Manipulation (XOR - Exclusive OR)
 ### Core Concept
 - Basic idea: XOR operations track unique elements by automatically canceling out duplicates - when the same number is encountered twice, it's removed from the result
 - When to use:

@@ -14,30 +14,30 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Contributing](#-contributing)
 
 ## 📈 My Current Progress
-- Problems Solved: 12 / 3385
-- Ranking: 2,109,039
+- Problems Solved: 13 / 3385
+- Ranking: 2,080,339
 - Acceptance Rate: 65%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 11 / 842
+- 🟢 Easy: 12 / 842
 - 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[██░░░░░░░░░░░░░░░░░░] 14% (12/84 problems)
+[██░░░░░░░░░░░░░░░░░░] 15% (13/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
 
 ### Study Streaks
-- Current Streak: 12 days 🔥
-- Longest Streak: 12 days
-- Total Study Days: 12
+- Current Streak: 13 days 🔥
+- Longest Streak: 13 days
+- Total Study Days: 13
 
 ### This Week's Stats (Week 2)
-- Problems Attempted: 5
-- Problems Solved on First Try: 4.5
-- Success Rate: 90%
+- Problems Attempted: 6
+- Problems Solved on First Try: 5.5
+- Success Rate: 92%
 - Challenges:
   - Challenge 1: Dynamic Programming patterns
   - Challenge 2: Writing cleaner solutions
@@ -49,6 +49,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
   - Achievement 3: Successfully optimized solution from 20% to 90% on my own
   - Achievement 4: I felt comfortable using Two Pointers pattern
   - Achievement 5: I wrote a working Binary Search solution on my own
+  - Achievement 6: Lightning fast (2 min) optimal solution for Prefix Sum pattern
 
 ### Completed Topics Stack
 1. Arrays Basics
@@ -80,7 +81,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
 *  ✅ First Binary Search solution implemented (9.01.2025 - Search Insert Position)
 *  ✅ First Bit Manipulation solution implemented (10.01.2025 - Single Number)
-*  ✅ 10 Problems Solved Without Help
+*  ✅ 11 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
