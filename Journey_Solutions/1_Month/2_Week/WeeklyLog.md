@@ -9,7 +9,7 @@
 | Wed  | Remove Duplicates from Sorted Array | Easy       | O(n)            | O(1)             | ✅      |
 | Thu  | Search Insert Position              | Easy       | O(log n)        | O(1)             | ✅      |
 | Fri  | Single Number                       | Easy       | O(n)            | O(1)             | ✅      |
-| Sat  | Find Pivot Index                    | Easy       |                 |                  |        |
+| Sat  | Find Pivot Index                    | Easy       | O(n)            | O(1)             | ✅      |
 | Sun  | Remove Element                      | Easy       |                 |                  |        |
 
 #### Time Complexity Legend:
@@ -26,9 +26,9 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 5
-- Independent Solutions: 4.5
-- Success Rate: 90%
+- Total Problems: 6
+- Independent Solutions: 5.5
+- Success Rate: 92%
 
 ### Areas of Improvement
 - [x] Dynamic Programming patterns
@@ -38,6 +38,7 @@
 - [x] Initial solution design (avoiding over-engineering)
 - [x] Understanding built-in Python array methods performance (insert vs concatenation)
 - [x] Binary search implementation
+- [x] Prefix Sum pattern implementation
 - [ ] Bit manipulation and operations
 
 ### Celebrations 🎉
@@ -48,4 +49,5 @@
 - Achievement 5: I feel comfortable using Two pointers pattern
 - Achievement 6: Successfully implemented Binary Search (though initially complex, got to a clean solution!)
 - Achievement 7: Developed independent solution for Single Number (though not optimal)
+- Achievement 8: Lightning fast (2 min) optimal solution for Find Pivot Index using Prefix Sum pattern
 ---
