@@ -42,5 +42,3 @@ class Solution:
 sol = Solution()
 nums = [3,2,3]
 print(sol.boyer_moore(nums))
-
-

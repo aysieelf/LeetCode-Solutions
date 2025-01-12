@@ -10,7 +10,7 @@
 | Thu  | Search Insert Position              | Easy       | O(log n)        | O(1)             | ✅      |
 | Fri  | Single Number                       | Easy       | O(n)            | O(1)             | ✅      |
 | Sat  | Find Pivot Index                    | Easy       | O(n)            | O(1)             | ✅      |
-| Sun  | Remove Element                      | Easy       |                 |                  |        |
+| Sun  | Remove Element                      | Easy       | O(n)            | O(1)             |        |
 
 #### Time Complexity Legend:
 - O(1): Constant time
@@ -26,9 +26,9 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 6
-- Independent Solutions: 5.5
-- Success Rate: 92%
+- Total Problems: 7
+- Independent Solutions: 6.5
+- Success Rate: 93%
 
 ### Areas of Improvement
 - [x] Dynamic Programming patterns
@@ -39,7 +39,7 @@
 - [x] Understanding built-in Python array methods performance (insert vs concatenation)
 - [x] Binary search implementation
 - [x] Prefix Sum pattern implementation
-- [ ] Bit manipulation and operations
+- [x] Bit manipulation and operations
 
 ### Celebrations 🎉
 - Achievement 1: Implemented Kadane's Algorithm for Maximum Subarray problem
@@ -50,4 +50,5 @@
 - Achievement 6: Successfully implemented Binary Search (though initially complex, got to a clean solution!)
 - Achievement 7: Developed independent solution for Single Number (though not optimal)
 - Achievement 8: Lightning fast (2 min) optimal solution for Find Pivot Index using Prefix Sum pattern
+- Achievement 9: Solved Remove Duplicates from Sorted Array using Two Pointers pattern on my own
 ---

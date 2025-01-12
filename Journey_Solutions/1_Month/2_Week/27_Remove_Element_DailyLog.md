@@ -12,29 +12,29 @@
 ## Time Tracking
 | Phase          | Time   |
 |----------------|--------|
-| Understanding  | XX min |
-| First Attempt  | XX min |
-| Solution Study | XX min |
-| Implementation | XX min |
-| Total Time     | XX min |
+| Understanding  | 5 min  |
+| First Attempt  | 5 min  |
+| Solution Study | 10 min |
+| Implementation | 5 min  |
+| Total Time     | 25 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
-- [ ] Finding the right approach
+- [x] Understanding the problem
+- [x] Finding the right approach
 - [ ] Implementation
-- [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Handling edge cases
+- [x] Understanding time complexity
+- Details of difficulties encountered: Didn't need to go back-to-front.
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: I can use two pointers front to back to solve this problem.
+- Mistake to avoid: I went back-to-front without thinking about if it was necessary.
+- Better approach: I can use the two-pointer approach to solve this problem - front to back, and don't need to swap places. Just getting the needed number to it's place, because it doesn't matter what's left in the array.
 
 ### Performance Rating
-- First Try: 🟢 / 🟡 / 🔴
-- Understanding: 🟢 / 🟡 / 🔴
-- Implementation: 🟢 / 🟡 / 🔴
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟡
 
 ---
