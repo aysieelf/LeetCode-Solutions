@@ -26,7 +26,7 @@
 - [x] Search Insert Position
 - [x] Single Number
 - [x] Find Pivot Index
-- [ ] Remove Element
+- [x] Remove Element
 
 #### [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
 - [ ] Valid Anagram
