@@ -9,6 +9,7 @@
 - [Sorted Array](#sorted-array)
 - [Dynamic Programming (State Tracking)](#dynamic-programming-state-tracking)
 - [Boyer-Moore Voting Algorithm](#boyer-moore-voting-algorithm)
+- [Hash Table/Hash Map](#hash-tablehash-map)
 
 ## Hash Table with Parallel Processing
 ### Core Concept
@@ -278,3 +279,34 @@ def xor_operator(nums):
     return result  # The remaining value is the unique element
 ```
 -----
+## Hash Table/Hash Map
+
+### Core Concept
+- Basic idea: We use hash table за O(1) lookup instead of O(n) searching или O(n log n) sorting
+- When to use: 
+  - When searching for frequency of elements
+  - When searching for pairs of elements with a specific relationship
+  - For checking if an element exists
+  - For counting problems
+
+### Template Code
+```python
+from collections import defaultdict
+
+def hash_table_pattern(arr):
+    # Using defaultdict to avoid key errors
+    count = defaultdict(int)
+    
+    # Count frequencies
+    for x in arr:
+        count[x] += 1
+    
+    # Check frequencies or find pairs
+    for x in arr:
+        if CONDITION:
+            # Do something
+            pass
+    
+    return result
+```
+---
