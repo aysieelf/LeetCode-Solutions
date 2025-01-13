@@ -105,6 +105,7 @@ Examples:
   - [Python | Array Manipulation | In-place vs New Array - Performance Deep Dive! ✨](https://leetcode.com/problems/plus-one/solutions/6244316/python-array-manipulation-in-place-vs-ne-yj64)
   - [Python | Two Pointers | Bears 100% ✨](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6248281/python-two-pointers-bears-100-by-aysieel-30es)
   - [Python | Easy to Read Binary Search | Beats 100% ✨](https://leetcode.com/problems/search-insert-position/solutions/6253947/python-easy-to-read-binary-search-beats-tzkop)
+  - [Python | JavaScript | Simple Hash Table | Clean & Fast ✨](https://leetcode.com/problems/valid-anagram/solutions/6273663/python-javascript-simple-hash-table-clea-qogq)
 
 
 ## 🌟 Contributing
