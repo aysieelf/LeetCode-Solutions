@@ -14,43 +14,30 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Contributing](#-contributing)
 
 ## 📈 My Current Progress
-- Problems Solved: 14 / 3385
-- Ranking: 2,080,339
+- Problems Solved: 15 / 3385
+- Ranking: 2,021,937
 - Acceptance Rate: 66%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 13 / 842
+- 🟢 Easy: 14 / 842
 - 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[██░░░░░░░░░░░░░░░░░░] 17% (14/84 problems)
+[██░░░░░░░░░░░░░░░░░░] 18% (15/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
-- [Week 2: Array Operations & Techniques](Journey_Solutions/1_Month/2_Week)
+- [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
 
 ### Study Streaks
-- Current Streak: 14 days 🔥
-- Longest Streak: 14 days
-- Total Study Days: 14
+- Current Streak: 15 days 🔥
+- Longest Streak: 15 days
+- Total Study Days: 15
 
-### This Week's Stats (Week 2)
-- Problems Attempted: 7
-- Problems Solved on First Try: 6.5
-- Success Rate: 93%
-- Challenges:
-  - Challenge 1: Dynamic Programming patterns
-  - Challenge 2: Writing cleaner solutions
-  - Challenge 3: Coming up with the cleanest binary search solution
-  - Challenge 4: Understanding bit operations (XOR)
-- Achievements:
-  - Achievement 1: First Kadane's Algorithm solution implemented
-  - Achievement 2: First Week Completed
-  - Achievement 3: Successfully optimized solution from 20% to 90% on my own
-  - Achievement 4: I felt comfortable using Two Pointers pattern
-  - Achievement 5: I wrote a working Binary Search solution on my own
-  - Achievement 6: Lightning fast (2 min) optimal solution for Prefix Sum pattern
-  - Achievement 7: Solved Remove Element using Two Pointers pattern on my own
+### This Week's Stats (Week 3)
+- Problems Attempted: 1
+- Problems Solved on First Try: 1
+- Success Rate: 100%
 
 ### Completed Topics Stack
 1. Arrays Basics
@@ -63,6 +50,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 8. Kadane's Algorithm (Dynamic Programming)
 9. Binary Search Basics
 10. Bit Manipulation (XOR)
+11. Hash Table / Hash Map
 
 ## 📚 Repository Structure
 - `/Old_Solutions`: Previous attempts before structured approach
@@ -82,7 +70,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
 *  ✅ First Binary Search solution implemented (9.01.2025 - Search Insert Position)
 *  ✅ First Bit Manipulation solution implemented (10.01.2025 - Single Number)
-*  ✅ 12 Problems Solved Without Help
+*  ✅ 13 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:

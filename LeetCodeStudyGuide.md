@@ -29,7 +29,7 @@
 - [x] Remove Element
 
 #### [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [ ] Valid Palindrome
 - [ ] Reverse String
 - [ ] First Unique Character
