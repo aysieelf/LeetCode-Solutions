@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](leetcode-link)           |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                                                                  |
+|-------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Date              | 2025-01-16                                                                                                               |
+| Problem Name/Link | [387. First unique character in a string](https://leetcode.com/problems/first-unique-character-in-a-string/description/) |
+| Difficulty        | Easy                                                                                                                     |
+| Topic             | Hash Table, String, Queue                                                                                                |
+| Pattern Used      | Counting                                                                                                                 |
 
 ## Time Tracking
 | Phase          | Time    |

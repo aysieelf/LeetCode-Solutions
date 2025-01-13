@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](leetcode-link)           |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                          |
+|-------------------|----------------------------------------------------------------------------------|
+| Date              | 2025-01-15                                                                       |
+| Problem Name/Link | [344. Reverse string](https://leetcode.com/problems/reverse-string/description/) |
+| Difficulty        | Easy                                                                             |
+| Topic             | String                                                                           |
+| Pattern Used      | Two Pointers                                                                     |
 
 ## Time Tracking
 | Phase          | Time    |

@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](leetcode-link)           |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                                   |
+|-------------------|-------------------------------------------------------------------------------------------|
+| Date              | 2025-01-17                                                                                |
+| Problem Name/Link | [58. Length of last word](https://leetcode.com/problems/length-of-last-word/description/) |
+| Difficulty        | Easy                                                                                      |
+| Topic             | String                                                                                    |
+| Pattern Used      |                                                                                           |
 
 ## Time Tracking
 | Phase          | Time    |

@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](leetcode-link)           |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                               |
+|-------------------|---------------------------------------------------------------------------------------|
+| Date              | 2025-01-19                                                                            |
+| Problem Name/Link | [20. Valid parentheses](https://leetcode.com/problems/valid-parentheses/description/) |
+| Difficulty        | Easy                                                                                  |
+| Topic             | String, Stack                                                                         |
+| Pattern Used      | Stack                                                                                 |
 
 ## Time Tracking
 | Phase          | Time    |

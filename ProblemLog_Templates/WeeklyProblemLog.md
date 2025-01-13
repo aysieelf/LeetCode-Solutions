@@ -14,7 +14,7 @@
 | Sun |         |            |                 |                  |        |
 
 
-Time Complexity Legend:
+#### Time Complexity Legend:
 - O(1): Constant time
 - O(log n): Logarithmic time
 - O(n): Linear time
@@ -22,12 +22,15 @@ Time Complexity Legend:
 - O(n²): Quadratic time
 - O(2ⁿ): Exponential time
 
+#### Status Legend:
+* ✅ - Solved completely on my own (might not be optimal)
+* 🟡 - Needed help (but then solved)
+* ❌ - Couldn't solve without solution
+
 ### Weekly Stats
-- Total Problems: XX
-- Easy: XX
-- Medium: XX
-- Hard: XX
-- Success Rate: XX%
+- Total Problems: xx
+- Independent Solutions: xx
+- Success Rate: xx%
 
 ### Areas of Improvement
 - [ ] Topic 1

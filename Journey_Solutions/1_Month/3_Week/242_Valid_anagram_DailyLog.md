@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](leetcode-link)           |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                         |
+|-------------------|---------------------------------------------------------------------------------|
+| Date              | 2025-01-13                                                                      |
+| Problem Name/Link | [242. Valid anagram ](https://leetcode.com/problems/valid-anagram/description/) |
+| Difficulty        | Easy                                                                            |
+| Topic             | Hash Table, String                                                              |
+| Pattern Used      | Sorting                                                                         |
 
 ## Time Tracking
 | Phase          | Time    |

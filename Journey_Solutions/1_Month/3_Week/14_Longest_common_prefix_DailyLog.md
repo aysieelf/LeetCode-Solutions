@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](leetcode-link)           |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                                       |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| Date              | 2025-01-18                                                                                    |
+| Problem Name/Link | [14. Longest common prefix](https://leetcode.com/problems/longest-common-prefix/description/) |
+| Difficulty        | Easy                                                                                          |
+| Topic             | String                                                                                        |
+| Pattern Used      | Trie                                                                                          |
 
 ## Time Tracking
 | Phase          | Time    |
