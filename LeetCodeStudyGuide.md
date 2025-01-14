@@ -30,7 +30,7 @@
 
 #### [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
 - [x] Valid Anagram
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] Reverse String
 - [ ] First Unique Character
 - [ ] Length of Last Word
