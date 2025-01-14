@@ -5,7 +5,7 @@
 | Day | Problem                                 | Difficulty | Time Complexity | Space Complexity | Status |
 |-----|-----------------------------------------|------------|-----------------|------------------|--------|
 | Mon | 242. Valid Anagram                      | Easy       | O(n)            | O(n)             | ✅      |
-| Tue | 125. Valid Palindrome                   | Easy       | -               | -                | -      |
+| Tue | 125. Valid Palindrome                   | Easy       | O(n)            | O(1)             | ✅      |
 | Wed | 344. Reverse String                     | Easy       | -               | -                | -      |
 | Thu | 387. First Unique Character in a String | Easy       | -               | -                | -      |
 | Fri | 58. Length of Last Word                 | Easy       | -               | -                | -      |
@@ -26,15 +26,18 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 1
-- Independent Solutions: 1
+- Total Problems: 2
+- Independent Solutions: 2
 - Success Rate: 100%
 
 ### Areas of Improvement
 - [ ] Understanding when to use Hash Tables (O(n)) vs Sorting (O(n log n))
 - [ ] Building confidence in implementing optimal solutions first
+- [ ] Reading and understanding the problem statement more carefully
+- [ ] Choosing better variable names for improved readability
 
 ### Celebrations 🎉
-- Achievement 1: Improved solution from O(n log n) to O(n) complexity 
+- Achievement 1: Improved solution from O(n log n) to O(n) complexity
+- Achievement 2: Implemented optimal Two Pointers solution for Valid Palindrome with O(1) space complexity
 
 ---

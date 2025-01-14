@@ -10,13 +10,13 @@
 | Pattern Used      | Two Pointers                                                                         |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 5 min  |
+| First Attempt  | 16 min |
+| Solution Study | 5 min  |
+| Implementation | 0 min  |
+| Total Time     | 26 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
@@ -25,17 +25,17 @@
 - [ ] Implementation
 - [ ] Handling edge cases
 - [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- Details of difficulties encountered: It took me too much time to figure out that I've misread the task.
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: Two Pointers pattern can be used effectively for string palindrome problems
+- Mistake to avoid: I should read my task carefully before starting to solve it.
+- Better approach: Use better variable names to avoid confusion.
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟡
 
 LEGEND:
 - First Try:

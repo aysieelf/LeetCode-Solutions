@@ -15,22 +15,6 @@ Edge Cases:
 """
 from typing import List
 
-#
-# class Solution:
-#     def plusOne(self, digits: List[int]) -> List[int]:
-#         last_i = len(digits) - 1
-#         extra_one = 1
-#         while extra_one and last_i >= 0:
-#             curr_sum = digits[last_i] + 1
-#             digits[last_i] = curr_sum % 10
-#             extra_one = curr_sum // 10
-#             last_i -= 1
-#
-#         if extra_one:
-#             digits.insert(0, 1)
-#
-#         return digits
-
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
         for i in range(len(digits) - 1, -1, -1):
