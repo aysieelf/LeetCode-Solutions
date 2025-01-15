@@ -14,29 +14,29 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Contributing](#-contributing)
 
 ## 📈 My Current Progress
-- Problems Solved: 16 / 3385
+- Problems Solved: 17 / 3385
 - Ranking: 1,993,525
 - Acceptance Rate: 66%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 15 / 842
+- 🟢 Easy: 16 / 842
 - 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[███░░░░░░░░░░░░░░░░░] 19% (16/84 problems)
+[████░░░░░░░░░░░░░░░░] 20% (17/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
 
 ### Study Streaks
-- Current Streak: 16 days 🔥
-- Longest Streak: 16 days
-- Total Study Days: 16
+- Current Streak: 17 days 🔥
+- Longest Streak: 17 days
+- Total Study Days: 17
 
 ### This Week's Stats (Week 3)
-- Problems Attempted: 2
-- Problems Solved on First Try: 2
+- Problems Attempted: 3
+- Problems Solved on First Try: 3
 - Success Rate: 100%
 
 ### Completed Topics Stack
@@ -70,7 +70,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
 *  ✅ First Binary Search solution implemented (9.01.2025 - Search Insert Position)
 *  ✅ First Bit Manipulation solution implemented (10.01.2025 - Single Number)
-*  ✅ 14 Problems Solved Without Help
+*  ✅ 15 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
@@ -95,17 +95,18 @@ Examples:
 ## ⚡ Quick Links
 - [My LeetCode Profile](https://leetcode.com/u/aysieelf/)
 - Shared Solutions:
-  - [Python | Two Pointers | 5 lines ✨](https://leetcode.com/problems/move-zeroes/solutions/6212328/python-two-pointers-5-lines)
-  - [Python | Hash Table with Parallel Processing | Beats 100% ✨](https://leetcode.com/problems/two-sum/solutions/6212397/python-hash-table-with-parallel-processi-ljp6)
-  - [Python | Prefix Sum | From O(n²) to O(n) ✨](https://leetcode.com/problems/running-sum-of-1d-array/solutions/6217409/python-prefix-sum-from-on2-to-on-by-aysi-2yi3)
-  - [Python | Multiple Approaches: Set, Early Exit, & Sort | Time-Space Trade-offs ✨](https://leetcode.com/problems/contains-duplicate/solutions/6222879/python-multiple-approaches-set-early-exi-jkg6)
-  - [Python | From Brute Force to Dynamic Programming: A Beginner's Solution ✨](https://leetcode.com/problems/contains-duplicate/solutions/6228302/python-from-brute-force-to-dynamic-progr-83wr)
-  - [Python & JavaScript | Early Exit HashMap & Boyer-Moore Voting | From Simple to Memory-Optimal ✨](https://leetcode.com/problems/majority-element/solutions/6232871/python-javascript-early-exit-hashmap-boyer-moore-voting-from-simple-to-memory-optimal)
-  - [Python | Kadane's Algorithm | From 20% to 90% - Performance Evolution! ✨](https://leetcode.com/problems/maximum-subarray/solutions/6239319/python-kadanes-algorithm-from-20-to-90-p-46ro)
-  - [Python | Array Manipulation | In-place vs New Array - Performance Deep Dive! ✨](https://leetcode.com/problems/plus-one/solutions/6244316/python-array-manipulation-in-place-vs-ne-yj64)
-  - [Python | Two Pointers | Bears 100% ✨](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6248281/python-two-pointers-bears-100-by-aysieel-30es)
-  - [Python | Easy to Read Binary Search | Beats 100% ✨](https://leetcode.com/problems/search-insert-position/solutions/6253947/python-easy-to-read-binary-search-beats-tzkop)
-  - [Python | JavaScript | Simple Hash Table | Clean & Fast ✨](https://leetcode.com/problems/valid-anagram/solutions/6273663/python-javascript-simple-hash-table-clea-qogq)
+  - [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/solutions/6212328/python-two-pointers-5-lines)
+  - [1. Two Sum](https://leetcode.com/problems/two-sum/solutions/6212397/python-hash-table-with-parallel-processi-ljp6)
+  - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/solutions/6217409/python-prefix-sum-from-on2-to-on-by-aysi-2yi3)
+  - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/solutions/6222879/python-multiple-approaches-set-early-exi-jkg6)
+  - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/6282550/python-javascript-from-brute-force-to-dp-rpai)
+  - [169. Majority Element](https://leetcode.com/problems/majority-element/solutions/6232871/python-javascript-early-exit-hashmap-boyer-moore-voting-from-simple-to-memory-optimal)
+  - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/solutions/6239319/python-kadanes-algorithm-from-20-to-90-p-46ro)
+  - [66. Plus One](https://leetcode.com/problems/plus-one/solutions/6244316/python-array-manipulation-in-place-vs-ne-yj64)
+  - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/6248281/python-two-pointers-bears-100-by-aysieel-30es)
+  - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/solutions/6253947/python-easy-to-read-binary-search-beats-tzkop)
+  - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/6273663/python-javascript-simple-hash-table-clea-qogq)
+  - [344. Reverse String](https://leetcode.com/problems/reverse-string/solutions/6282525/python-javascript-two-pointers-2-lines-s-td1l)
 
 
 ## 🌟 Contributing

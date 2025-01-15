@@ -31,7 +31,7 @@
 #### [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
 - [x] Valid Anagram
 - [x] Valid Palindrome
-- [ ] Reverse String
+- [x] Reverse String
 - [ ] First Unique Character
 - [ ] Length of Last Word
 - [ ] Longest Common Prefix
