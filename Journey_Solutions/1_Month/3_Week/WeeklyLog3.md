@@ -6,7 +6,7 @@
 |-----|-----------------------------------------|------------|-----------------|------------------|--------|
 | Mon | 242. Valid Anagram                      | Easy       | O(n)            | O(n)             | ✅      |
 | Tue | 125. Valid Palindrome                   | Easy       | O(n)            | O(1)             | ✅      |
-| Wed | 344. Reverse String                     | Easy       | -               | -                | -      |
+| Wed | 344. Reverse String                     | Easy       | O(n)            | O(1)             | ✅      |
 | Thu | 387. First Unique Character in a String | Easy       | -               | -                | -      |
 | Fri | 58. Length of Last Word                 | Easy       | -               | -                | -      |
 | Sat | 14. Longest Common Prefix               | Easy       | -               | -                | -      |
@@ -26,18 +26,19 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 2
-- Independent Solutions: 2
+- Total Problems: 3
+- Independent Solutions: 3
 - Success Rate: 100%
 
 ### Areas of Improvement
-- [ ] Understanding when to use Hash Tables (O(n)) vs Sorting (O(n log n))
+- [x] Understanding when to use Hash Tables (O(n)) vs Sorting (O(n log n))
 - [ ] Building confidence in implementing optimal solutions first
-- [ ] Reading and understanding the problem statement more carefully
-- [ ] Choosing better variable names for improved readability
+- [x] Reading and understanding the problem statement more carefully
+- [x] Choosing better variable names for improved readability
 
 ### Celebrations 🎉
 - Achievement 1: Improved solution from O(n log n) to O(n) complexity
-- Achievement 2: Implemented optimal Two Pointers solution for Valid Palindrome with O(1) space complexity
+- Achievement 2: Implemented optimal Two Pointers solution for Valid Palindrome with O(1) space complexity completely on my own
+- Achievement 3: Implemented optimal Two Pointers solution for Reverse String completely on my own
 
 ---
