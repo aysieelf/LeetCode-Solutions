@@ -32,7 +32,7 @@
 - [x] Valid Anagram
 - [x] Valid Palindrome
 - [x] Reverse String
-- [ ] First Unique Character
+- [x] First Unique Character
 - [ ] Length of Last Word
 - [ ] Longest Common Prefix
 - [ ] Valid Parentheses
