@@ -64,3 +64,24 @@ var reverseString = function(s) {
         [s[i], s[s.length - 1 - i]] = [s[s.length - 1 - i], s[i]];
     }
 };
+
+// 387. First Unique Character in a String
+var firstUniqChar = function(s) {
+    const seen = {};
+
+    for (let i = 0; i < s.length; i++) {
+        if (s[i] in seen) {
+            seen[s[i]] = -1;
+        }
+        else {
+            seen[s[i]] = i;
+        }
+    }
+
+    for (const v of Object.values(seen)) {
+        if (v !== -1) {
+            return v;
+        }
+    }
+    return -1;
+};
