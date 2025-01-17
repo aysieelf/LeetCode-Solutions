@@ -8,7 +8,7 @@
 | Tue | 125. Valid Palindrome                   | Easy       | O(n)            | O(1)             | ✅      |
 | Wed | 344. Reverse String                     | Easy       | O(n)            | O(1)             | ✅      |
 | Thu | 387. First Unique Character in a String | Easy       | O(n)            | O(n)             | ✅      |
-| Fri | 58. Length of Last Word                 | Easy       | -               | -                | -      |
+| Fri | 58. Length of Last Word                 | Easy       | O(n)            | O(1)             | ✅      |
 | Sat | 14. Longest Common Prefix               | Easy       | -               | -                | -      |
 | Sun | 20. Valid Parentheses                   | Easy       | -               | -                | -      |
 
@@ -26,8 +26,8 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 4
-- Independent Solutions: 4
+- Total Problems: 5
+- Independent Solutions: 5
 - Success Rate: 100%
 
 ### Areas of Improvement
@@ -35,12 +35,13 @@
 - [ ] Building confidence in implementing optimal solutions first
 - [x] Reading and understanding the problem statement more carefully
 - [x] Choosing better variable names for improved readability
-- [ ] Thinking of ways around built-in functions to improve time complexity
+- [x] Thinking of ways around built-in functions to improve time complexity
 
 ### Celebrations 🎉
 - Achievement 1: Improved solution from O(n log n) to O(n) complexity
 - Achievement 2: Implemented optimal Two Pointers solution for Valid Palindrome with O(1) space complexity completely on my own
 - Achievement 3: Implemented optimal Two Pointers solution for Reverse String completely on my own
 - Achievement 4: Implemented a Hash Table solution for First Unique Character in a String completely on my own (though not optimal)
+- Achievement 5: Solve Length of last word with 100% time complexity and O(1) space complexity
 
 ---

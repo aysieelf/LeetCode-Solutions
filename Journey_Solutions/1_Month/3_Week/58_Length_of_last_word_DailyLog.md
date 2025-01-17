@@ -10,32 +10,32 @@
 | Pattern Used      |                                                                                           |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 1 min  |
+| First Attempt  | 10 min |
+| Solution Study | 5 min  |
+| Implementation | 0 min  |
+| Total Time     | 16 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
-- [ ] Finding the right approach
-- [ ] Implementation
+- [x] Understanding the problem
+- [x] Finding the right approach
+- [x] Implementation
 - [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Understanding time complexity
+- Details of difficulties encountered: I didn't think of a case with one word only. Also I didn't read carefully the task and assumed words would be only alnum.
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: N/A
+- Mistake to avoid: To assume, instead of to read carefully.
+- Better approach: Read carefully my tasks next time and think of edge cases.
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🟢
+- Understanding:🟢
+- Implementation: 🟡
 
 LEGEND:
 - First Try:
