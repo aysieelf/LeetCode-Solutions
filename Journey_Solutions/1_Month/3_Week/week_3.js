@@ -85,3 +85,13 @@ var firstUniqChar = function(s) {
     }
     return -1;
 };
+
+// 58. Length of last word
+var lengthOfLastWord = function(s) {
+    let len_word = 0;
+    for (let i = s.length - 1; i >= 0; i--) {
+        if (s[i] !== ' ') {len_word++;}
+        else if (len_word !== 0) {break;}
+    }
+    return len_word;
+};
