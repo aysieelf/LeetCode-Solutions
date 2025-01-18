@@ -95,3 +95,17 @@ var lengthOfLastWord = function(s) {
     }
     return len_word;
 };
+
+// 14. Longest common prefix
+var longestCommonPrefix = function(strs) {
+    if (strs.length === 0) {return "";}
+
+    const shortest = Math.min(...strs.map(s => s.length));
+    for (let i = 0; i < shortest; i++) {
+        const char = strs[0][i];
+        if (!strs.every(s => s[i] === char)) {
+            return strs[0].slice(0, i);
+        }
+    }
+    return strs[0].slice(0, shortest);
+};
