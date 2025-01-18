@@ -7,8 +7,6 @@ Example:
     s = "leetcode" => 0
     s = "aabb" => -1
 """
-from collections import defaultdict, deque, Counter
-
 
 class Solution:
     def firstUniqChar(self, s: str) -> int:

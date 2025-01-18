@@ -10,32 +10,35 @@
 | Pattern Used      | Trie                                                                                          |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 1 min  |
+| First Attempt  | 16 min |
+| Solution Study | 7 min  |
+| Implementation | 3 min  |
+| Total Time     | 27 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
+- [x] Understanding the problem
 - [ ] Finding the right approach
-- [ ] Implementation
-- [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Implementation
+- [x] Handling edge cases
+- [x] Understanding time complexity
+- Details of difficulties encountered: There was an easier min/all solution that I couldn't think of.
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: Three different approaches to solving the problem:
+  - Iterative approach (my initial solution)
+  - min/all approach (more elegant and readable)
+  - Trie structure (suitable for more complex text problems)
+- Mistake to avoid: The most obvious solution isn't always the best one. Sometimes a simpler approach (like min/all) is more elegant and easier to maintain.
+- Better approach: Using built-in Python functions like min() and all() makes the code more readable and efficient. The sorting approach is also an interesting alternative with O(NlogN) time complexity.
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟡
 
 LEGEND:
 - First Try:
