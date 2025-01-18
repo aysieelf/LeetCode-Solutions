@@ -34,7 +34,7 @@
 - [x] Reverse String
 - [x] First Unique Character
 - [x] Length of Last Word
-- [ ] Longest Common Prefix
+- [x] Longest Common Prefix
 - [ ] Valid Parentheses
 
 #### [Week 4: Combined Concepts & Review](Journey_Solutions/1_Month/4_Week)
