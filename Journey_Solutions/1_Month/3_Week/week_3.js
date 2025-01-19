@@ -109,3 +109,18 @@ var longestCommonPrefix = function(strs) {
     }
     return strs[0].slice(0, shortest);
 };
+
+// 20. Valid Parentheses
+var isValid = function(s) {
+    const brackets = {')': '(', ']': '[', '}':'{'};
+    const stack = [];
+    for (const b of s) {
+        if (stack && b in brackets && brackets[b] === stack[stack.length - 1]) {
+            stack.pop();
+        }
+        else {
+            stack.push(b);
+        }
+    }
+    return stack.length === 0;
+};
