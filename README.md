@@ -14,29 +14,29 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Contributing](#-contributing)
 
 ## 📈 My Current Progress
-- Problems Solved: 20 / 3385
+- Problems Solved: 21 / 3385
 - Ranking: 1,890,326
-- Acceptance Rate: 68%
+- Acceptance Rate: 69%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 19 / 842
+- 🟢 Easy: 20 / 842
 - 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[████░░░░░░░░░░░░░░░░] 24% (20/84 problems)
+[█████░░░░░░░░░░░░░░░] 25% (21/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
 
 ### Study Streaks
-- Current Streak: 20 days 🔥
-- Longest Streak: 20 days
-- Total Study Days: 20
+- Current Streak: 21 days 🔥
+- Longest Streak: 21 days
+- Total Study Days: 21
 
 ### This Week's Stats (Week 3)
-- Problems Attempted: 6
-- Problems Solved on First Try: 6
+- Problems Attempted: 7
+- Problems Solved on First Try: 7
 - Success Rate: 100%
 
 ### Completed Topics Stack
@@ -51,6 +51,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 9. Binary Search Basics
 10. Bit Manipulation (XOR)
 11. Hash Table / Hash Map
+12. Stack Pattern
 
 ## 📚 Repository Structure
 - `/Old_Solutions`: Previous attempts before structured approach
@@ -108,6 +109,7 @@ Examples:
   - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/6273663/python-javascript-simple-hash-table-clea-qogq)
   - [344. Reverse String](https://leetcode.com/problems/reverse-string/solutions/6282525/python-javascript-two-pointers-2-lines-s-td1l)
   - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solutions/6298157/python-javascript-o1-space-simple-clean-wk473)
+  - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/6301816/python-javascript-stack-super-clean-easy-iyu4)
 
 ## 🌟 Contributing
 Found a better solution? I'd love to learn from you! Contact me!

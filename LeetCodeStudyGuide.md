@@ -35,7 +35,7 @@
 - [x] First Unique Character
 - [x] Length of Last Word
 - [x] Longest Common Prefix
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 
 #### [Week 4: Combined Concepts & Review](Journey_Solutions/1_Month/4_Week)
 - [ ] Valid Palindrome II
