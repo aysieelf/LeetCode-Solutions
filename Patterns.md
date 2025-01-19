@@ -10,6 +10,7 @@
 - [Dynamic Programming (State Tracking)](#dynamic-programming-state-tracking)
 - [Boyer-Moore Voting Algorithm](#boyer-moore-voting-algorithm)
 - [Hash Table/Hash Map](#hash-tablehash-map)
+- [Stack Pattern](#stack-pattern)
 
 ## Hash Table with Parallel Processing
 ### Core Concept
@@ -308,5 +309,51 @@ def hash_table_pattern(arr):
             pass
     
     return result
+```
+---
+## Stack Pattern
+
+### Core Concept
+- Basic idea: Use a Last-In-First-Out (LIFO) data structure to track elements where the most recently added element needs to be processed first
+- When to use: 
+  - For matching pairs (parentheses, brackets, tags)
+  - When you need to process elements in reverse order
+  - For tracking state that can be undone/backtracked
+  - When you need to maintain a history of operations
+  - I used it in [20_Valid_Parentheses problem](Journey_Solutions/1_Month/3_Week/20_Valid_Parentheses.py)
+
+### Template Code
+```python
+def stack_pattern(s):
+    stack = []
+    
+    for item in s:
+        # Push to stack
+        if CONDITION_TO_ADD:
+            stack.append(item)
+        
+        # Pop from stack if matches condition
+        elif stack and CONDITION_TO_REMOVE:
+            stack.pop()
+            
+        # Optional: Check for invalid cases
+        else:
+            return False
+    
+    # Usually, valid case means empty stack
+    return len(stack) == 0
+
+# Common variations
+def stack_with_hashmap(s):
+    stack = []
+    pairs = {')': '(', ']': '[', '}': '{'}  # Map closing to opening
+    
+    for item in s:
+        if stack and pairs.get(item) == stack[-1]:
+            stack.pop()
+        else:
+            stack.append(item)
+            
+    return len(stack) == 0
 ```
 ---
