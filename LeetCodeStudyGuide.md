@@ -38,7 +38,7 @@
 - [x] Valid Parentheses
 
 #### [Week 4: Combined Concepts & Review](Journey_Solutions/1_Month/4_Week)
-- [ ] Valid Palindrome II
+- [x] Valid Palindrome II
 - [ ] Implement strStr()
 - [ ] Find All Numbers Disappeared in an Array
 - [ ] Third Maximum Number
