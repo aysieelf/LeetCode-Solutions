@@ -27,17 +27,17 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 ### Current Level
 [█████░░░░░░░░░░░░░░░] 25% (21/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
-- [Week 3: String Basics](Journey_Solutions/1_Month/3_Week)
+- [Week 4: Combined Concepts & Review](Journey_Solutions/1_Month/4_Week)
 
 ### Study Streaks
 - Current Streak: 21 days 🔥
 - Longest Streak: 21 days
 - Total Study Days: 21
 
-### This Week's Stats (Week 3)
-- Problems Attempted: 7
-- Problems Solved on First Try: 7
-- Success Rate: 100%
+### This Week's Stats (Week 4)
+- Problems Attempted: xx
+- Problems Solved on First Try: xx
+- Success Rate: xx%
 
 ### Completed Topics Stack
 1. Arrays Basics
