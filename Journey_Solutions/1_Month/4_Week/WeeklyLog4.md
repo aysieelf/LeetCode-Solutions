@@ -1,11 +1,10 @@
-
 # 📊 Weekly Progress Report
 ## Week of: 01/20 - 01/26
 
 ### Problems Completed
 | Day | Problem                                                | Difficulty | Time Complexity | Space Complexity | Status |
 |-----|--------------------------------------------------------|------------|-----------------|------------------|--------|
-| Mon | 680. Valid Palindrome II                               | Easy       |                 |                  |        |
+| Mon | 680. Valid Palindrome II                               | Easy       | O(n)            | O(1)             | ❌      |
 | Tue | 28. Find the Index of the First Occurrence in a String | Easy       |                 |                  |        |
 | Wed | 448. Find All Numbers Disappeared in an Array          | Easy       |                 |                  |        |
 | Thu | 414. Third Maximum Number                              | Easy       |                 |                  |        |
@@ -28,17 +27,17 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: xx
-- Independent Solutions: xx
-- Success Rate: xx%
+- Total Problems: 1
+- Independent Solutions: 0
+- Success Rate: 0%
 
 ### Areas of Improvement
-- [ ] Topic 1
-- [ ] Topic 2
-- [ ] Topic 3
+- [ ] String manipulation techniques
+- [ ] Two pointers pattern implementation
+- [ ] Edge case consideration in palindrome problems
 
 ### Celebrations 🎉
-- Achievement 1:
-- Achievement 2:
+- Achievement 1: 
+- Achievement 2: 
 
 ---

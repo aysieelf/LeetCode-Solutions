@@ -10,46 +10,31 @@
 | Pattern Used      | Two Pointers, Greedy                                                                       |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 1 min  |
+| First Attempt  | 30 min |
+| Solution Study | 20 min |
+| Implementation | 2 min  |
+| Total Time     | 53 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
+- [x] Understanding the problem
 - [ ] Finding the right approach
 - [ ] Implementation
 - [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Understanding time complexity
+- Details of difficulties encountered: Initially tried to use a boolean flag to track character deletion, which made the logic overly complex. Failed to consider the need to check both possibilities (skipping left or right character) when encountering a mismatch.
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: When checking for almost-palindromes, we need to consider both possibilities of character deletion at the point of mismatch
+- Mistake to avoid: Don't overcomplicate the solution with boolean flags when you can solve it with simple string slicing or two separate checks
+- Better approach: Use Python's built-in string slicing and reverse comparison for cleaner, more readable code. Split the problem into two cases: skip left character or skip right character when mismatch is found
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🔴 
+- Understanding: 🟢
+- Implementation: 🟡
 
-LEGEND:
-- First Try:
-  🟢 - Completed on my own
-  🟡 - Used hints
-  🔴 - Used solution
-
-- Understanding:
-  🟢 - Understood and can explain the problem to others
-  🟡 - Understood main idea
-  🔴 - Still struggling to understand the problem
-
-- Implementation:
-  🟢 - Wrote clean code, no bugs, optimal naming
-  🟡 - Wrote code with some bugs, not optimal naming
-  🔴 - Many bugs, poor naming, needed help
 ---
