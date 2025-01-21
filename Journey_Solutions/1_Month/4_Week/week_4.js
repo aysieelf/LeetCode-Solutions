@@ -22,3 +22,17 @@ var validPalindrome = function(s) {
 function  reverseCase(str) {
     return str.split('').reverse().join('');
 }
+
+// 28. Find the Index of First Occurrence in a String
+var strStr = function(haystack, needle) {
+    if (haystack.length < needle.length) {
+        return -1;
+    }
+
+    for (let i = 0; i < haystack.length; i++) {
+        if (haystack.slice(i, i + needle.length) === needle) {
+            return i;
+        }
+    }
+    return -1;
+};
