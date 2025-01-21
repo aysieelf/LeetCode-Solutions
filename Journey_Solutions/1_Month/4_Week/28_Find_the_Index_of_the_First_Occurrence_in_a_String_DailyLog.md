@@ -10,32 +10,32 @@
 | Pattern Used      | Two Pointers, String Matching                                                                                                                           |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 2 min  |
+| First Attempt  | 15 min |
+| Solution Study | 3 min  |
+| Implementation | 1 min  |
+| Total Time     | 21 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
+- [x] Understanding the problem
 - [ ] Finding the right approach
-- [ ] Implementation
-- [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Implementation
+- [x] Handling edge cases
+- [x] Understanding time complexity
+- Details of difficulties encountered: I had to use three pointers because I didn't want to slice.
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: Slicing sometimes is the best approach.
+- Mistake to avoid: Avoiding slicing can make the code more complex.
+- Better approach: Slicing from the index till index + len(substring) can make the code cleaner.
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟡
 
 LEGEND:
 - First Try:

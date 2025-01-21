@@ -5,7 +5,7 @@
 | Day | Problem                                                | Difficulty | Time Complexity | Space Complexity | Status |
 |-----|--------------------------------------------------------|------------|-----------------|------------------|--------|
 | Mon | 680. Valid Palindrome II                               | Easy       | O(n)            | O(1)             | ❌      |
-| Tue | 28. Find the Index of the First Occurrence in a String | Easy       |                 |                  |        |
+| Tue | 28. Find the Index of the First Occurrence in a String | Easy       | O(n*m)          | O(1)             | ✅      |
 | Wed | 448. Find All Numbers Disappeared in an Array          | Easy       |                 |                  |        |
 | Thu | 414. Third Maximum Number                              | Easy       |                 |                  |        |
 | Fri | 228. Summary Ranges                                    | Easy       |                 |                  |        |
@@ -27,9 +27,9 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 1
-- Independent Solutions: 0
-- Success Rate: 0%
+- Total Problems: 2
+- Independent Solutions: 1
+- Success Rate: 50%
 
 ### Areas of Improvement
 - [ ] String manipulation techniques
@@ -37,7 +37,7 @@
 - [ ] Edge case consideration in palindrome problems
 
 ### Celebrations 🎉
-- Achievement 1: 
+- Achievement 1: Solved Find the Index of the First Occurrence in a String problem independently.
 - Achievement 2: 
 
 ---
