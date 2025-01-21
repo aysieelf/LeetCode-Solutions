@@ -39,7 +39,7 @@
 
 #### [Week 4: Combined Concepts & Review](Journey_Solutions/1_Month/4_Week)
 - [x] Valid Palindrome II
-- [ ] Implement strStr()
+- [x] Implement strStr()
 - [ ] Find All Numbers Disappeared in an Array
 - [ ] Third Maximum Number
 - [ ] Summary Ranges
