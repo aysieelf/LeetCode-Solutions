@@ -71,7 +71,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
 *  ✅ First Binary Search solution implemented (9.01.2025 - Search Insert Position)
 *  ✅ First Bit Manipulation solution implemented (10.01.2025 - Single Number)
-*  ✅ 19 Problems Solved Without Help
+*  ✅ 21 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
