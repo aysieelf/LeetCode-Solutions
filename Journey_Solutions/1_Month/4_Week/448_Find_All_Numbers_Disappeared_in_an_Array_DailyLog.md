@@ -7,49 +7,34 @@
 | Problem Name/Link | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) |
 | Difficulty        | Easy                                                                                                                                 |
 | Topic             | Array                                                                                                                                |
-| Pattern Used      | Hash Table                                                                                                                           |
+| Pattern Used      | Hash Table (Set)                                                                                                                     |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 1 min  |
+| First Attempt  | 2 min  |
+| Solution Study | 7 min  |
+| Implementation | 2 min  |
+| Total Time     | 12 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
-- [ ] Finding the right approach
-- [ ] Implementation
-- [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Understanding the problem
+- [x] Finding the right approach
+- [x] Implementation
+- [x] Handling edge cases
+- [x] Understanding time complexity
+- Details of difficulties encountered: None - the problem was straightforward with a clear set-based solution
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: Using a set for O(1) lookup is often more efficient than repeatedly searching through an array
+- Mistake to avoid: Don't overcomplicate the solution - sometimes the straightforward approach is best
+- Better approach: While there exists an O(1) space solution using array modification, the set-based solution is cleaner, easier to understand, and performs well in practice
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟢
 
-LEGEND:
-- First Try:
-  🟢 - Completed on my own
-  🟡 - Used hints
-  🔴 - Used solution
-
-- Understanding:
-  🟢 - Understood and can explain the problem to others
-  🟡 - Understood main idea
-  🔴 - Still struggling to understand the problem
-
-- Implementation:
-  🟢 - Wrote clean code, no bugs, optimal naming
-  🟡 - Wrote code with some bugs, not optimal naming
-  🔴 - Many bugs, poor naming, needed help
 ---
