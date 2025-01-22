@@ -36,3 +36,17 @@ var strStr = function(haystack, needle) {
     }
     return -1;
 };
+
+
+// 448. Find All Numbers
+var findDisappearedNumbers = function(nums) {
+    const nums_set = new Set(nums);
+    const result = [];
+
+    for (let i = 1; i < nums.length + 1; i++) {
+        if (!nums_set.has(i)) {
+            result.push(i);
+        }
+    }
+    return result;
+};
