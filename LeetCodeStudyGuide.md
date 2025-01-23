@@ -41,7 +41,7 @@
 - [x] Valid Palindrome II
 - [x] Implement strStr()
 - [x] Find All Numbers Disappeared in an Array
-- [ ] Third Maximum Number
+- [x] Third Maximum Number
 - [ ] Summary Ranges
 - [ ] Pascal's Triangle
 - [ ] Pascal's Triangle II

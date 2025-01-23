@@ -14,30 +14,30 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Contributing](#-contributing)
 
 ## 📈 My Current Progress
-- Problems Solved: 24 / 3385
-- Ranking: 1,869,621
+- Problems Solved: 25 / 3385
+- Ranking: 1,822,731
 - Acceptance Rate: 69%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 23 / 842
+- 🟢 Easy: 24 / 842
 - 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[█████░░░░░░░░░░░░░░░] 29% (24/84 problems)
+[██████░░░░░░░░░░░░░░] 30% (25/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 4: Combined Concepts & Review](Journey_Solutions/1_Month/4_Week)
 
 ### Study Streaks
-- Current Streak: 24 days 🔥
-- Longest Streak: 24 days
-- Total Study Days: 24
+- Current Streak: 25 days 🔥
+- Longest Streak: 25 days
+- Total Study Days: 25
 
 ### This Week's Stats (Week 4)
-- Problems Attempted: 3
-- Problems Solved on First Try: 2
-- Success Rate: 67%
+- Problems Attempted: 4
+- Problems Solved on First Try: 3
+- Success Rate: 75%
 
 ### Completed Topics Stack
 1. Arrays Basics
@@ -71,7 +71,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
 *  ✅ First Binary Search solution implemented (9.01.2025 - Search Insert Position)
 *  ✅ First Bit Manipulation solution implemented (10.01.2025 - Single Number)
-*  ✅ 21 Problems Solved Without Help
+*  ✅ 22 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
