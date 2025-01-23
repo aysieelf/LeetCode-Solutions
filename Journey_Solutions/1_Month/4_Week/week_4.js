@@ -50,3 +50,25 @@ var findDisappearedNumbers = function(nums) {
     }
     return result;
 };
+
+// 414. Third Maximum Number
+var thirdMax = function(nums) {
+    let first = -Infinity;
+    let second = -Infinity;
+    let third = -Infinity;
+
+
+    for (const num of nums) {
+        if (num === first || num === second || num === third) {
+            continue;
+        }
+        if (num > first) {
+            [first, second, third] = [num, first, second];
+        } else if (num > second) {
+            [second, third] = [num, second];
+        } else if (num > third) {
+            third = num;
+        }
+    }
+    return third !== -Infinity ? third : first;
+};
