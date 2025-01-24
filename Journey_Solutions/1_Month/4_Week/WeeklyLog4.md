@@ -8,7 +8,7 @@
 | Tue | 28. Find the Index of the First Occurrence in a String | Easy       | O(n*m)          | O(1)             | ✅      |
 | Wed | 448. Find All Numbers Disappeared in an Array          | Easy       | O(n)            | O(n)             | ✅      |
 | Thu | 414. Third Maximum Number                              | Easy       | O(n)            | O(1)             | ✅      |
-| Fri | 228. Summary Ranges                                    | Easy       |                 |                  |        |
+| Fri | 228. Summary Ranges                                    | Easy       | O(n)            | O(1)             | ✅      |
 | Sat | 118. Pascal's Triangle                                 | Easy       |                 |                  |        |
 | Sun | 119. Pascal's Triangle II                              | Easy       |                 |                  |        |
 
@@ -27,18 +27,19 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 4
-- Independent Solutions: 3
-- Success Rate: 75%
+- Total Problems: 5
+- Independent Solutions: 4
+- Success Rate: 80%
 
 ### Areas of Improvement
 - [ ] String manipulation techniques
 - [ ] Two pointers pattern implementation
-- [ ] Edge case consideration in palindrome problems
+- [ ] Edge case consideration in problems!!!
 
 ### Celebrations 🎉
 - Achievement 1: Solved Find the Index of the First Occurrence in a String problem independently.
 - Achievement 2: Solved Find All Numbers Disappeared in an Array problem independently.
 - Achievement 3: Solved Third Maximum Number problem independently.
+- Achievement 4: Solved 228 Summary Ranges on my own.
 
 ---
