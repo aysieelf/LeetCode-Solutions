@@ -42,7 +42,7 @@
 - [x] Implement strStr()
 - [x] Find All Numbers Disappeared in an Array
 - [x] Third Maximum Number
-- [ ] Summary Ranges
+- [x] Summary Ranges
 - [ ] Pascal's Triangle
 - [ ] Pascal's Triangle II
 
