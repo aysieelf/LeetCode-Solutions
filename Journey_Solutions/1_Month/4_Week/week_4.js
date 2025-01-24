@@ -72,3 +72,20 @@ var thirdMax = function(nums) {
     }
     return third !== -Infinity ? third : first;
 };
+
+// 228. Summary Ranges
+var summaryRanges = function(nums) {
+    const result = [];
+    const n_len = nums.length;
+    let i = 0;
+
+    while (i < n_len) {
+        const start = nums[i];
+        while (i + 1 < n_len && nums[i + 1] === nums[i] + 1) {
+            i++;
+        }
+        result.push(start !== nums[i] ? String(start) + "->" + String(nums[i]) : String(start));
+        i++;
+    }
+    return result;
+};
