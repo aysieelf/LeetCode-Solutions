@@ -89,3 +89,19 @@ var summaryRanges = function(nums) {
     }
     return result;
 };
+
+// 118. Pascal's Triangle
+var generate = function(numRows) {
+    const result = [[1]];
+    for (let i = 1; i < numRows; i++) {
+        const currentRow = [1];
+        const prev_row = result[i - 1];
+
+        for (let j = 1; j < prev_row.length; j++) {
+            currentRow.push(prev_row[j - 1] + prev_row[j]);
+        }
+        currentRow.push(1);
+        result.push(currentRow);
+    }
+    return result;
+}
