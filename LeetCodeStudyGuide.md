@@ -43,7 +43,7 @@
 - [x] Find All Numbers Disappeared in an Array
 - [x] Third Maximum Number
 - [x] Summary Ranges
-- [ ] Pascal's Triangle
+- [x] Pascal's Triangle
 - [ ] Pascal's Triangle II
 
 #### Weeks 5-8: Hash Tables & Sets

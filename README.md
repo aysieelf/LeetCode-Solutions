@@ -14,30 +14,30 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Contributing](#-contributing)
 
 ## 📈 My Current Progress
-- Problems Solved: 26 / 3385
+- Problems Solved: 27 / 3385
 - Ranking: 1,802,760
 - Acceptance Rate: 69%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 25 / 842
+- 🟢 Easy: 26 / 842
 - 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[██████░░░░░░░░░░░░░░] 31% (26/84 problems)
+[██████░░░░░░░░░░░░░░] 32% (27/84 problems)
 - [Month 1-3: Easy Problems 👶](Journey_Solutions/1_Month)
 - [Week 4: Combined Concepts & Review](Journey_Solutions/1_Month/4_Week)
 
 ### Study Streaks
-- Current Streak: 25 days 🔥
-- Longest Streak: 25 days
-- Total Study Days: 25
+- Current Streak: 26 days 🔥
+- Longest Streak: 26 days
+- Total Study Days: 26
 
 ### This Week's Stats (Week 4)
-- Problems Attempted: 5
-- Problems Solved on First Try: 4
-- Success Rate: 80%
+- Problems Attempted: 6
+- Problems Solved on First Try: 5
+- Success Rate: 83%
 
 ### Completed Topics Stack
 1. Arrays Basics
