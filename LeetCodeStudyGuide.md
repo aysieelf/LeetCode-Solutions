@@ -44,7 +44,7 @@
 - [x] Third Maximum Number
 - [x] Summary Ranges
 - [x] Pascal's Triangle
-- [ ] Pascal's Triangle II
+- [x] Pascal's Triangle II
 
 #### Weeks 5-8: Hash Tables & Sets
 - Hash map operations
