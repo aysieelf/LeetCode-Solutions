@@ -105,3 +105,18 @@ var generate = function(numRows) {
     }
     return result;
 }
+
+// 119. Pascal's Triangle II
+var getRow = function(rowIndex) {
+    const row = new Array(rowIndex + 1).fill(1);
+
+    for (let i = 1; i <= rowIndex; i++) {
+        let prev = 1;
+        for (let j = 1; j < i; j++) {
+            let temp = row[j];
+            row[j] = prev + row[j];
+            prev = temp;
+        }
+    }
+    return row
+};
