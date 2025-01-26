@@ -10,46 +10,31 @@
 | Pattern Used      | Dynamic Programming                                                                         |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 1 min  |
+| First Attempt  | 5 min  |
+| Solution Study | 5 min  |
+| Implementation | 5 min  |
+| Total Time     | 16 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
-- [ ] Finding the right approach
-- [ ] Implementation
-- [ ] Handling edge cases
+- [x] Understanding the problem
+- [x] Finding the right approach
+- [x] Implementation
+- [x] Handling edge cases
 - [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- Details of difficulties encountered: Initially created new arrays unnecessarily, leading to suboptimal space complexity
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: In-place array updates can optimize space complexity
+- Mistake to avoid: Creating new arrays when existing array can be modified
+- Better approach: Update array from right to left to avoid overwriting needed values
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟡
 
-LEGEND:
-- First Try:
-  🟢 - Completed on my own
-  🟡 - Used hints
-  🔴 - Used solution
-
-- Understanding:
-  🟢 - Understood and can explain the problem to others
-  🟡 - Understood main idea
-  🔴 - Still struggling to understand the problem
-
-- Implementation:
-  🟢 - Wrote clean code, no bugs, optimal naming
-  🟡 - Wrote code with some bugs, not optimal naming
-  🔴 - Many bugs, poor naming, needed help
 ---
