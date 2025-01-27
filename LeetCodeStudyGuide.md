@@ -47,8 +47,8 @@
 - [x] Pascal's Triangle II
 
 ### [Month 4-6: Easy Problems 👶](Journey_Solutions/2_Month)
-#### [Week 5: Basic Hash Map Operations](Journey_Solutions/2_Month/1_Week)
-- [ ] Find the Difference
+#### [Week 5: Basic Hash Map Operations](Journey_Solutions/2_Month/5_Week)
+- [x] Find the Difference
 - [ ] Intersection of Two Arrays
 - [ ] Word Pattern
 - [ ] Ransom Note
@@ -56,7 +56,7 @@
 - [ ] Happy Number
 - [ ] First Letter to Appear Twice
 
-#### [Week 6: Hash Set Fundamentals](Journey_Solutions/2_Month/2_Week)
+#### [Week 6: Hash Set Fundamentals](Journey_Solutions/2_Month/6_Week)
 - [ ] Unique Email Addresses
 - [ ] Number of Different Integers in a String
 - [ ] Count Common Words With One Occurrence
@@ -65,7 +65,7 @@
 - [ ] Check if Number Has Equal Digit Count and Digit Value
 - [ ] Check if the Sentence Is Pangram
 
-#### [Week 7: Frequency Counting](Journey_Solutions/2_Month/3_Week)
+#### [Week 7: Frequency Counting](Journey_Solutions/2_Month/7_Week)
 - [ ] Sort Array by Increasing Frequency
 - [ ] Count Elements With Strictly Smaller and Greater Elements
 - [ ] Most Common Word
@@ -74,7 +74,7 @@
 - [ ] Number of Good Pairs
 - [ ] Count Number of Pairs With Absolute Difference K
 
-#### [Week 8: Combined Hash Techniques](Journey_Solutions/2_Month/4_Week)
+#### [Week 8: Combined Hash Techniques](Journey_Solutions/2_Month/8_Week)
 - [ ] Group Anagrams
 - [ ] Find All Duplicates in an Array
 - [ ] Longest Palindrome
