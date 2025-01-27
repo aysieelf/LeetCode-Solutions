@@ -46,10 +46,42 @@
 - [x] Pascal's Triangle
 - [x] Pascal's Triangle II
 
-#### Weeks 5-8: Hash Tables & Sets
-- Hash map operations
-- Set usage
-- Frequency counting
+### [Month 4-6: Easy Problems 👶](Journey_Solutions/2_Month)
+#### [Week 5: Basic Hash Map Operations](Journey_Solutions/2_Month/1_Week)
+- [ ] Find the Difference
+- [ ] Intersection of Two Arrays
+- [ ] Word Pattern
+- [ ] Ransom Note
+- [ ] Isomorphic Strings
+- [ ] Happy Number
+- [ ] First Letter to Appear Twice
+
+#### [Week 6: Hash Set Fundamentals](Journey_Solutions/2_Month/2_Week)
+- [ ] Unique Email Addresses
+- [ ] Number of Different Integers in a String
+- [ ] Count Common Words With One Occurrence
+- [ ] Unique Number of Occurrences
+- [ ] Count the Number of Consistent Strings
+- [ ] Check if Number Has Equal Digit Count and Digit Value
+- [ ] Check if the Sentence Is Pangram
+
+#### [Week 7: Frequency Counting](Journey_Solutions/2_Month/3_Week)
+- [ ] Sort Array by Increasing Frequency
+- [ ] Count Elements With Strictly Smaller and Greater Elements
+- [ ] Most Common Word
+- [ ] Find Words That Can Be Formed by Characters
+- [ ] Detect Pattern of Length M Repeated K or More Times
+- [ ] Number of Good Pairs
+- [ ] Count Number of Pairs With Absolute Difference K
+
+#### [Week 8: Combined Hash Techniques](Journey_Solutions/2_Month/4_Week)
+- [ ] Group Anagrams
+- [ ] Find All Duplicates in an Array
+- [ ] Longest Palindrome
+- [ ] Jewels and Stones
+- [ ] Find Common Characters
+- [ ] Count Largest Group
+- [ ] Shortest Completing Word
 
 #### Weeks 9-12: Linked Lists
 - Traversal
