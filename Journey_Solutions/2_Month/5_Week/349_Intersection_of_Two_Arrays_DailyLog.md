@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](link)                    |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                                                  |
+|-------------------|----------------------------------------------------------------------------------------------------------|
+| Date              | 2025-01-28                                                                                               |
+| Problem Name/Link | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |
+| Difficulty        | Easy                                                                                                     |
+| Topic             | Array, Hash Table                                                                                        |
+| Pattern Used      | Two Pointers, Binary Search, Sorting                                                                     |
 
 ## Time Tracking
 | Phase          | Time    |

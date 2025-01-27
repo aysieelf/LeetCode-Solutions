@@ -1,6 +1,6 @@
 
 # 📊 Weekly Progress Report
-## Week of: MM/DD - MM/DD
+## Week of: 01/27 - 02/02
 
 ### Problems Completed
 | Day | Problem                             | Difficulty | Time Complexity | Space Complexity | Status |

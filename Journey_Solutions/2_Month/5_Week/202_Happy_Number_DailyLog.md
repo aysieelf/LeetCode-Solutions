@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](link)                    |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                      |
+|-------------------|------------------------------------------------------------------------------|
+| Date              | 2025-02-01                                                                   |
+| Problem Name/Link | [202. Happy Number](https://leetcode.com/problems/happy-number/description/) |
+| Difficulty        | Easy                                                                         |
+| Topic             | Hash Table                                                                   |
+| Pattern Used      | Math, Two Pointers                                                           |
 
 ## Time Tracking
 | Phase          | Time    |

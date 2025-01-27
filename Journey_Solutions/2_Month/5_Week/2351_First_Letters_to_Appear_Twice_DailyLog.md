@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](link)                    |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                                                       |
+|-------------------|---------------------------------------------------------------------------------------------------------------|
+| Date              | 2025-02-02                                                                                                    |
+| Problem Name/Link | [2351. First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/description/) |
+| Difficulty        | Easy                                                                                                          |
+| Topic             | Hash Table, String                                                                                            |
+| Pattern Used      | Bit Manipulation, Counting                                                                                    |
 
 ## Time Tracking
 | Phase          | Time    |

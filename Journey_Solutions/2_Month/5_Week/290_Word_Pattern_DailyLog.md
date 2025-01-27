@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](link)                    |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                      |
+|-------------------|------------------------------------------------------------------------------|
+| Date              | 2025-01-29                                                                   |
+| Problem Name/Link | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/) |
+| Difficulty        | Easy                                                                         |
+| Topic             | Hash Table, String                                                           |
+| Pattern Used      | ...                                                                          |
 
 ## Time Tracking
 | Phase          | Time    |

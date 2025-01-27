@@ -1,13 +1,13 @@
 # 📝 Daily Problem Log
 
 ## Problem Information
-| Category          | Details                         |
-|-------------------|---------------------------------|
-| Date              | YYYY-MM-DD                      |
-| Problem Name/Link | [Name](link)                    |
-| Difficulty        | Easy/Medium/Hard                |
-| Topic             | Array/String/Tree/etc           |
-| Pattern Used      | Two Pointers/Sliding Window/etc |
+| Category          | Details                                                                    |
+|-------------------|----------------------------------------------------------------------------|
+| Date              | 2025-01-30                                                                 |
+| Problem Name/Link | [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) |
+| Difficulty        | Easy                                                                       |
+| Topic             | Hash Table, String                                                         |
+| Pattern Used      | Counting                                                                   |
 
 ## Time Tracking
 | Phase          | Time    |
