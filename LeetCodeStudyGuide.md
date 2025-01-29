@@ -49,8 +49,8 @@
 ### [Month 4-6: Easy Problems 👶](Journey_Solutions/2_Month)
 #### [Week 5: Basic Hash Map Operations](Journey_Solutions/2_Month/5_Week)
 - [x] Find the Difference
-- [ ] Intersection of Two Arrays
-- [ ] Word Pattern
+- [x] Intersection of Two Arrays
+- [x] Word Pattern
 - [ ] Ransom Note
 - [ ] Isomorphic Strings
 - [ ] Happy Number
