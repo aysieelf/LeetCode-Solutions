@@ -11,6 +11,7 @@
 - [Boyer-Moore Voting Algorithm](#boyer-moore-voting-algorithm)
 - [Hash Table/Hash Map](#hash-tablehash-map)
 - [Stack Pattern](#stack-pattern)
+- [Bijection (Two-Way Hash Map) Pattern](#bijection-two-way-hash-map-pattern)
 
 ## Hash Table with Parallel Processing
 ### Core Concept
@@ -357,3 +358,53 @@ def stack_with_hashmap(s):
     return len(stack) == 0
 ```
 ---
+## Bijection (Two-Way Hash Map) Pattern
+
+### Core Concept
+- Basic idea: Creating a two-way correspondence between two sets of elements, where each element from the first set corresponds to exactly one unique element from the second set and vice versa
+- When to use: 
+  - When you need mapping between two sets of elements
+  - When each element must have exactly one unique correspondence
+  - When you need to validate two-way uniqueness
+  - When one element cannot correspond to multiple other elements
+  - When you need to track or verify one-to-one relationships
+  - I used it in [290_Word_Pattern problem](Journey_Solutions/2_Month/5_Week/290_Word_Pattern.py)
+
+### Template Code
+```python
+def bijection_pattern(first_sequence, second_sequence):
+    # Early length validation
+    if len(first_sequence) != len(second_sequence):
+        return False
+        
+    # Two-way mapping dictionaries
+    forward_map = {}   # first_item -> second_item
+    backward_map = {}  # second_item -> first_item
+    
+    # Check both directions of mapping
+    for first_item, second_item in zip(first_sequence, second_sequence):
+        # Check forward mapping
+        if first_item in forward_map:
+            if forward_map[first_item] != second_item:
+                return False
+        # Check backward mapping
+        elif second_item in backward_map:
+            if backward_map[second_item] != first_item:
+                return False
+        # Create new mapping
+        else:
+            forward_map[first_item] = second_item
+            backward_map[second_item] = first_item
+            
+    return True
+
+# Common variations
+def bijection_with_sets(first_sequence, second_sequence):
+    # Using zip and sets to check if mapping is one-to-one
+    pairs = list(zip(first_sequence, second_sequence))
+    
+    # Check if number of unique first items equals number of unique pairs
+    # and number of unique second items equals number of unique pairs
+    return len(set(first_sequence)) == len(set(pairs)) == len(set(second_sequence))
+```
+-----
