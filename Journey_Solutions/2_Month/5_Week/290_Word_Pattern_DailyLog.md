@@ -7,49 +7,34 @@
 | Problem Name/Link | [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/) |
 | Difficulty        | Easy                                                                         |
 | Topic             | Hash Table, String                                                           |
-| Pattern Used      | ...                                                                          |
+| Pattern Used      | Two-way Hash Map (Bijection)                                                 |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 1 min  |
+| First Attempt  | 15 min |
+| Solution Study | 0 min  |
+| Implementation | 0 min  |
+| Total Time     | 16 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
-- [ ] Finding the right approach
-- [ ] Implementation
-- [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Understanding the problem
+- [x] Finding the right approach
+- [x] Implementation
+- [x] Handling edge cases
+- [x] Understanding time complexity
+- Details of difficulties encountered: Successfully identified and handled the tricky edge case where same word appears multiple times (e.g., "dog dog dog dog" with pattern "abba")
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: Bijection - one-to-one correspondence between two sets
+- Mistake to avoid: Always test with cases where same value maps to different keys
+- Better approach: Using two hash maps provides clearer logic and better readability than trying to use a single map
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🟢 - Completed independently, including finding and fixing edge cases
+- Understanding: 🟢 - Can explain the concept of bijection and why we need two-way mapping
+- Implementation: 🟡 - Wrote clean code with good variable names and efficient approach
 
-LEGEND:
-- First Try:
-  🟢 - Completed on my own
-  🟡 - Used hints
-  🔴 - Used solution
-
-- Understanding:
-  🟢 - Understood and can explain the problem to others
-  🟡 - Understood main idea
-  🔴 - Still struggling to understand the problem
-
-- Implementation:
-  🟢 - Wrote clean code, no bugs, optimal naming
-  🟡 - Wrote code with some bugs, not optimal naming
-  🔴 - Many bugs, poor naming, needed help
 ---
