@@ -1,4 +1,3 @@
-
 # 📊 Weekly Progress Report
 ## Week of: 01/27 - 02/02
 
@@ -6,8 +5,8 @@
 | Day | Problem                             | Difficulty | Time Complexity | Space Complexity | Status |
 |-----|-------------------------------------|------------|-----------------|------------------|--------|
 | Mon | 389. Find the Difference            | Easy       | O(n)            | O(1)             | ✅      |
-| Tue | 349. Intersection of Two Arrays     | Easy       |                 |                  |        |
-| Wed | 290. Word Pattern                   | Easy       |                 |                  |        |
+| Tue | 349. Intersection of Two Arrays     | Easy       | O(n + m)        | O(min(n, m))     | ✅      |
+| Wed | 290. Word Pattern                   | Easy       | O(n)            | O(n)             | ✅      |
 | Thu | 383. Ransom Note                    | Easy       |                 |                  |        |
 | Fri | 205. Isomorphic Strings             | Easy       |                 |                  |        |
 | Sat | 202. Happy Number                   | Easy       |                 |                  |        |
@@ -28,17 +27,18 @@
 * ❌ - Couldn't solve without solution
 
 ### Weekly Stats
-- Total Problems: 1
-- Independent Solutions: 1
+- Total Problems: 3
+- Independent Solutions: 3
 - Success Rate: 100%
 
 ### Areas of Improvement
-- [ ] Be more comfortable to use Bit Manipulation
+- [ ] Be more comfortable with Bit Manipulation
 - [ ] Read tasks more carefully
-- [ ] Topic 3
+- [ ] Think of edge cases before starting to code
 
 ### Celebrations 🎉
-- Achievement 1: Solved 389. Find the Difference on my own.
-- Achievement 2:
+- Achievement 1: Solved 389. Find the Difference on my own using XOR!
+- Achievement 2: Identified and implemented the bijection pattern in Word Pattern problem
+- Achievement 3: Maintained 100% success rate for the week so far
 
 ---
