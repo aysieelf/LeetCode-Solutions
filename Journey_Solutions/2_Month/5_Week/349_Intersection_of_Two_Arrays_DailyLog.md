@@ -7,49 +7,34 @@
 | Problem Name/Link | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) |
 | Difficulty        | Easy                                                                                                     |
 | Topic             | Array, Hash Table                                                                                        |
-| Pattern Used      | Two Pointers, Binary Search, Sorting                                                                     |
+| Pattern Used      | Set Operations                                                                                           |
 
 ## Time Tracking
-| Phase          | Time    |
-|----------------|---------|
-| Understanding  | XX min  |
-| First Attempt  | XX min  |
-| Solution Study | XX min  |
-| Implementation | XX min  |
-| Total Time     | XX min  |
+| Phase          | Time   |
+|----------------|--------|
+| Understanding  | 2 min  |
+| First Attempt  | 10 min |
+| Solution Study | 15 min |
+| Implementation | 5 min  |
+| Total Time     | 32 min |
 
 ## Problem Analysis
 ### What Went Smoothly ✓
-- [ ] Understanding the problem
-- [ ] Finding the right approach
-- [ ] Implementation
-- [ ] Handling edge cases
-- [ ] Understanding time complexity
-- Details of difficulties encountered: _write here_
+- [x] Understanding the problem
+- [x] Finding the right approach
+- [x] Implementation
+- [x] Handling edge cases
+- [x] Understanding time complexity
+- Details of difficulties encountered: None! Successfully implemented the set intersection approach on first try.
 
 ### What I Learned
-- New concept: _write here_
-- Mistake to avoid: _write here_
-- Better approach: _write here_
+- New concept: Different approaches to solve intersection problems (Set Operations, Two Pointers, Binary Search)
+- Mistake to avoid: Creating sets from both arrays when we only need to convert the smaller one
+- Better approach: Check array lengths first and convert only the smaller array to set for better memory usage
 
 ### Performance Rating
-- First Try: 🔴 / 🟡 / 🟢
-- Understanding: 🔴 / 🟡 / 🟢
-- Implementation: 🔴 / 🟡 / 🟢
+- First Try: 🟢
+- Understanding: 🟢
+- Implementation: 🟢
 
-LEGEND:
-- First Try:
-  🟢 - Completed on my own
-  🟡 - Used hints
-  🔴 - Used solution
-
-- Understanding:
-  🟢 - Understood and can explain the problem to others
-  🟡 - Understood main idea
-  🔴 - Still struggling to understand the problem
-
-- Implementation:
-  🟢 - Wrote clean code, no bugs, optimal naming
-  🟡 - Wrote code with some bugs, not optimal naming
-  🔴 - Many bugs, poor naming, needed help
 ---
