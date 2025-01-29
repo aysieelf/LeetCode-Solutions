@@ -14,29 +14,29 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 - [Contributing](#-contributing)
 
 ## 📈 My Current Progress
-- Problems Solved: 29 / 3385
-- Ranking: 1,733,914
-- Acceptance Rate: 69%
+- Problems Solved: 31 / 3385
+- Ranking: 1,713,711
+- Acceptance Rate: 70%
 
 ## 🗂️ Solutions by Difficulty
-- 🟢 Easy: 28 / 842
+- 🟢 Easy: 30 / 842
 - 🟡 Medium: 1 / 1766
 - 🔴 Hard: 0 / 777
 
 ## 🎯 Journey Progress
 ### Current Level
-[███████░░░░░░░░░░░░░] 35% (29/84 problems)
+[███████░░░░░░░░░░░░░] 37% (31/84 problems)
 - [Month 4-6: Easy Problems 👶](Journey_Solutions/2_Month)
   - [Week 5: Basic Hash Map Operations](Journey_Solutions/2_Month/5_Week)
 
 ### Study Streaks
-- Current Streak: 29 days 🔥
+- Current Streak: 1 days 🔥
 - Longest Streak: 29 days
-- Total Study Days: 29
+- Total Study Days: 30 days
 
 ### This Week's Stats (Week 5)
-- Problems Attempted: 1
-- Problems Solved on First Try: 1
+- Problems Attempted: 3
+- Problems Solved on First Try: 3
 - Success Rate: 100%
 
 ### Completed Topics Stack
@@ -52,6 +52,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 10. Bit Manipulation (XOR)
 11. Hash Table / Hash Map
 12. Stack Pattern
+13. Bijection (Two-way Hash Map)
 
 ## 📚 Repository Structure
 - `/Old_Solutions`: Previous attempts before structured approach
@@ -71,7 +72,7 @@ After struggling with daily LeetCode challenges (mostly Medium/Hard) and feeling
 *  ✅ First Kadane's Algorithm solution implemented (6.01.2025 - Maximum Subarray)
 *  ✅ First Binary Search solution implemented (9.01.2025 - Search Insert Position)
 *  ✅ First Bit Manipulation solution implemented (10.01.2025 - Single Number)
-*  ✅ 25 Problems Solved Without Help
+*  ✅ 27 Problems Solved Without Help
 
 ## 📝 Solution Template
 - Each problem is solved in:
