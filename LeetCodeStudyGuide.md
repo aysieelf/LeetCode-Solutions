@@ -51,7 +51,7 @@
 - [x] Find the Difference
 - [x] Intersection of Two Arrays
 - [x] Word Pattern
-- [ ] Ransom Note
+- [x] Ransom Note
 - [ ] Isomorphic Strings
 - [ ] Happy Number
 - [ ] First Letter to Appear Twice
