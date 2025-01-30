@@ -44,3 +44,24 @@ var wordPattern = function(pattern, s) {
     }
     return true;
 }
+
+// 383. Ransom Note
+var canConstruct = function(ransomNote, magazine) {
+    if (ransomNote.length > magazine.length) {
+        return false;
+    }
+
+    const letters = {};
+    for (const letter of magazine) {
+        letters[letter] = (letters[letter] || 0) + 1;
+    }
+
+    for (const letter of ransomNote) {
+        if (letter in letters && letters[letter] > 0) {
+            letters[letter]--;
+        } else {
+            return false;
+        }
+    }
+    return true;
+};
